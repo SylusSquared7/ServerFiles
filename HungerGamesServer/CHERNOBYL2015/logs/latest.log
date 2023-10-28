@@ -1,0 +1,888 @@
+[17:02:19] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:02:19] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[17:02:20] [Worker-Main-1/INFO]: Loaded 7 recipes
+[17:02:21] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[17:02:21] [Server thread/INFO]: Loading properties
+[17:02:21] [Server thread/INFO]: This server is running Paper version git-Paper-388 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: fc9ee65 on ver/1.18.2)
+[17:02:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:02:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:02:21] [Server thread/INFO]: Default game type: SURVIVAL
+[17:02:21] [Server thread/INFO]: Generating keypair
+[17:02:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:02:21] [Server thread/INFO]: Using epoll channel type
+[17:02:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:02:21] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[17:02:22] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.10+1742f98
+[17:02:22] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@626bf98d]
+[17:02:22] [Server thread/INFO]: [HungerGamesCore] Loading HungerGamesCore v1.0-SNAPSHOT
+[17:02:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:02:22] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.10+1742f98
+[17:02:22] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[17:02:22] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:02:23] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_18_R2.PaperweightAdapter as the Bukkit adapter
+[17:02:24] [Server thread/INFO]: Preparing level "world"
+[17:02:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:02:25] [Server thread/INFO]: Time elapsed: 225 ms
+[17:02:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:02:25] [Server thread/INFO]: Time elapsed: 155 ms
+[17:02:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:02:25] [Server thread/INFO]: Time elapsed: 154 ms
+[17:02:25] [Server thread/INFO]: [HungerGamesCore] Enabling HungerGamesCore v1.0-SNAPSHOT
+[17:02:25] [Server thread/INFO]: Main class Changed the game state to: TESTING
+[17:02:25] [Server thread/INFO]: CoreLoaded
+[17:02:25] [Server thread/INFO]: Game state changed to: TESTING
+[17:02:25] [Server thread/INFO]: [HungerGamesCore] [STDOUT] File already exists.
+[17:02:25] [Server thread/WARN]: Nag author(s): '[]' of 'HungerGamesCore' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[17:02:26] [Server thread/INFO]: Running delayed init tasks
+[17:02:26] [Server thread/INFO]: Done (4.385s)! For help, type "help"
+[17:02:26] [Server thread/INFO]: Timings Reset
+[17:02:30] [User Authenticator #1/INFO]: UUID of player SylusSquared is e5c90261-b745-4f34-8d8d-8ca9d73c2ca2
+[17:02:30] [Server thread/INFO]: [HungerGamesCore] [STDOUT] 0PLAYERNUMBERS
+[17:02:30] [Server thread/INFO]: SylusSquared joined the game
+[17:02:30] [Server thread/INFO]: SylusSquared[/127.0.0.1:50544] logged in with entity id 76 at ([world]-206.8124348292539, 255.0, -9.614414665049681)
+[17:02:56] [Server thread/INFO]: SylusSquared issued server command: //brush apply cyl set glass
+[17:03:17] [Server thread/INFO]: SylusSquared issued server command: //undo
+[17:03:54] [Server thread/INFO]: SylusSquared issued server command: //undo
+[17:03:57] [Server thread/INFO]: SylusSquared issued server command: //undo
+[17:04:17] [Server thread/INFO]: SylusSquared issued server command: /weather rain
+[17:04:17] [Server thread/INFO]: [SylusSquared: Set the weather to rain]
+[17:09:45] [Server thread/INFO]: SylusSquared issued server command: /time set 12500
+[17:09:45] [Server thread/INFO]: [SylusSquared: Set the time to 12500]
+[17:09:53] [Server thread/INFO]: SylusSquared issued server command: /time set 12800
+[17:09:53] [Server thread/INFO]: [SylusSquared: Set the time to 12800]
+[17:10:04] [Server thread/INFO]: SylusSquared issued server command: /weather clear
+[17:10:04] [Server thread/INFO]: [SylusSquared: Set the weather to clear]
+[17:10:11] [Server thread/INFO]: SylusSquared issued server command: /weather rain
+[17:10:11] [Server thread/INFO]: [SylusSquared: Set the weather to rain]
+[17:10:23] [Server thread/INFO]: SylusSquared issued server command: /gamerule doWeatherCycle false
+[17:10:23] [Server thread/INFO]: [SylusSquared: Gamerule doWeatherCycle is now set to: false]
+[17:10:28] [Server thread/INFO]: SylusSquared issued server command: /time set 12500
+[17:10:28] [Server thread/INFO]: [SylusSquared: Set the time to 12500]
+[17:12:15] [Server thread/INFO]: SylusSquared issued server command: /time set 12600
+[17:12:15] [Server thread/INFO]: [SylusSquared: Set the time to 12600]
+[17:12:24] [Server thread/INFO]: SylusSquared issued server command: /time set 12550
+[17:12:24] [Server thread/INFO]: [SylusSquared: Set the time to 12550]
+[17:13:18] [Server thread/INFO]: SylusSquared issued server command: /gamemode adventure
+[17:13:18] [Server thread/INFO]: [SylusSquared: Set own game mode to Adventure Mode]
+[17:14:09] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:69) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:14:49] [Server thread/INFO]: SylusSquared issued server command: /gamerule doMobSpawning false
+[17:14:49] [Server thread/INFO]: [SylusSquared: Gamerule doMobSpawning is now set to: false]
+[17:15:18] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:69) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:15:43] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:69) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:16:24] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:69) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:16:52] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:69) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:17:23] [Server thread/INFO]: SylusSquared issued server command: /give SylusSquared minecraft:golden_carrot 64
+[17:17:23] [Server thread/INFO]: [SylusSquared: Gave 64 [Golden Carrot] to SylusSquared]
+[17:17:33] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:69) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:20:16] [Server thread/INFO]: SylusSquared issued server command: /gamestart
+[17:20:16] [Server thread/INFO]: Running the count down
+[17:20:16] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:17] [Server thread/INFO]: Running the count down
+[17:20:17] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:18] [Server thread/INFO]: Running the count down
+[17:20:18] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:19] [Server thread/INFO]: Running the count down
+[17:20:19] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:20] [Server thread/INFO]: Running the count down
+[17:20:20] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:20] [Server thread/INFO]: You will be teleported in 15 seconds
+[17:20:21] [Server thread/INFO]: Running the count down
+[17:20:21] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:22] [Server thread/INFO]: Running the count down
+[17:20:22] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:23] [Server thread/INFO]: Running the count down
+[17:20:23] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:24] [Server thread/INFO]: Running the count down
+[17:20:24] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:25] [Server thread/INFO]: Running the count down
+[17:20:25] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:25] [Server thread/INFO]: You will be teleported in 10 seconds
+[17:20:26] [Server thread/INFO]: Running the count down
+[17:20:26] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:27] [Server thread/INFO]: Running the count down
+[17:20:27] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:28] [Server thread/INFO]: Running the count down
+[17:20:28] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:29] [Server thread/INFO]: Running the count down
+[17:20:29] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:30] [Server thread/INFO]: Running the count down
+[17:20:30] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:30] [Server thread/INFO]: You will be teleported in 5 seconds
+[17:20:31] [Server thread/INFO]: Running the count down
+[17:20:31] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:31] [Server thread/INFO]: You will be teleported in 4 seconds
+[17:20:32] [Server thread/INFO]: Running the count down
+[17:20:32] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:32] [Server thread/INFO]: You will be teleported in 3 seconds
+[17:20:33] [Server thread/INFO]: Running the count down
+[17:20:33] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:33] [Server thread/INFO]: You will be teleported in 2 seconds
+[17:20:34] [Server thread/INFO]: Running the count down
+[17:20:34] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:34] [Server thread/INFO]: You will be teleported in 1 seconds
+[17:20:35] [Server thread/INFO]: Running the count down
+[17:20:35] [Server thread/INFO]: Count down task Changed the game state to: GAMESTART
+[17:20:35] [Server thread/INFO]: The game will begin in 10 seconds
+[17:20:36] [Server thread/INFO]: The game will begin in 9 seconds
+[17:20:37] [Server thread/INFO]: The game will begin in 8 seconds
+[17:20:38] [Server thread/INFO]: The game will begin in 7 seconds
+[17:20:39] [Server thread/INFO]: The game will begin in 6 seconds
+[17:20:40] [Server thread/INFO]: The game will begin in 5 seconds
+[17:20:41] [Server thread/INFO]: The game will begin in 4 seconds
+[17:20:42] [Server thread/INFO]: The game will begin in 3 seconds
+[17:20:43] [Server thread/INFO]: The game will begin in 2 seconds
+[17:20:44] [Server thread/INFO]: Game run task Changed the game state to: ACTIVE
+[17:20:44] [Server thread/INFO]: [!] The game has started.
+[17:20:48] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:69) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:20:49] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:69) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:20:50] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:69) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:20:59] [Server thread/INFO]: Chests will be refilled in 5 Seconds
+[17:21:00] [Server thread/INFO]: Chests will be refilled in 4 Seconds
+[17:21:01] [Server thread/INFO]: Chests will be refilled in 3 Seconds
+[17:21:02] [Server thread/INFO]: Chests will be refilled in 2 Seconds
+[17:21:03] [Server thread/INFO]: Chests will be refilled in 1 Seconds
+[17:21:03] [Server thread/WARN]: [HungerGamesCore] Task #6 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.NumberFormatException: For input string: "Refill over"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:668) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:786) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Scorebord.refreshScorebordAll(Scorebord.java:166) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.GameTimer.run(GameTimer.java:72) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:21:04] [Server thread/INFO]: Game timer Changed the game state to: SECONDHALF
+[17:21:04] [Server thread/INFO]: Chest refilled
+[17:21:35] [Server thread/INFO]: Game timer for the deathmatch Changed the game state to: DEATHMATCH
+[17:21:35] [Server thread/WARN]: [HungerGamesCore] Task #6 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IllegalArgumentException: location.world
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:145) ~[guava-31.0.1-jre.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.entity.CraftPlayer.teleport(CraftPlayer.java:1138) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.entity.CraftEntity.teleport(CraftEntity.java:558) ~[paper-1.18.2.jar:git-Paper-388]
+	at dev.sylus.HungerGamesCore.Tasks.GameTimer.run(GameTimer.java:98) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:21:42] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:69) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:21:42] [Server thread/INFO]: Players will become vulnerable in 114 seconds
+[17:21:43] [Server thread/INFO]: Players will become vulnerable in 113 seconds
+[17:21:44] [Server thread/INFO]: Players will become vulnerable in 112 seconds
+[17:21:45] [Server thread/INFO]: Players will become vulnerable in 111 seconds
+[17:21:46] [Server thread/INFO]: Players will become vulnerable in 110 seconds
+[17:21:47] [Server thread/INFO]: Players will become vulnerable in 109 seconds
+[17:22:27] [Server thread/INFO]: SylusSquared issued server command: /gamerule keepInventory true
+[17:22:27] [Server thread/INFO]: [SylusSquared: Gamerule keepInventory is now set to: true]
+[17:22:29] [Server thread/ERROR]: PLAYER JUST DIED
+[17:22:29] [Server thread/INFO]: SylusSquared fell from a high place
+[17:22:36] [Server thread/INFO]: A draw will be called in 60 seconds
+[17:22:41] [Server thread/INFO]: SylusSquared issued server command: /gamemode creative
+[17:22:41] [Server thread/INFO]: [SylusSquared: Set own game mode to Creative Mode]
+[17:22:46] [Server thread/INFO]: SylusSquared lost connection: Disconnected
+[17:22:46] [Server thread/INFO]: SylusSquared left the game
+[17:22:48] [User Authenticator #2/INFO]: UUID of player SylusSquared is e5c90261-b745-4f34-8d8d-8ca9d73c2ca2
+[17:22:48] [Server thread/INFO]: [HungerGamesCore] [STDOUT] 0PLAYERNUMBERS
+[17:22:48] [Server thread/WARN]: Nag author(s): '[]' of 'HungerGamesCore' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[17:22:48] [Server thread/INFO]: SylusSquared joined the game
+[17:22:48] [Server thread/INFO]: SylusSquared[/127.0.0.1:50360] logged in with entity id 227 at ([world]-95.31715886240465, 95.60283571170473, -69.79744169859258)
+[17:22:56] [Server thread/INFO]: SylusSquared lost connection: Disconnected
+[17:22:56] [Server thread/INFO]: SylusSquared left the game
+[17:22:58] [User Authenticator #2/INFO]: UUID of player SylusSquared is e5c90261-b745-4f34-8d8d-8ca9d73c2ca2
+[17:22:58] [Server thread/INFO]: [HungerGamesCore] [STDOUT] 0PLAYERNUMBERS
+[17:22:58] [Server thread/INFO]: SylusSquared joined the game
+[17:22:58] [Server thread/INFO]: SylusSquared[/127.0.0.1:39576] logged in with entity id 230 at ([world]-104.21605978381827, 95.60283571170473, -147.88907313525397)
+[17:23:06] [Server thread/INFO]: A draw will be called in 30 seconds
+[17:23:21] [Server thread/INFO]: A draw will be called in 15 seconds
+[17:23:26] [Server thread/INFO]: A draw will be called in 10 seconds
+[17:23:27] [Server thread/INFO]: A draw will be called in 9 seconds
+[17:23:28] [Server thread/INFO]: A draw will be called in 8 seconds
+[17:23:29] [Server thread/INFO]: A draw will be called in 7 seconds
+[17:23:30] [Server thread/INFO]: A draw will be called in 6 seconds
+[17:23:31] [Server thread/INFO]: A draw will be called in 5 seconds
+[17:23:32] [Server thread/INFO]: A draw will be called in 4 seconds
+[17:23:33] [Server thread/INFO]: A draw will be called in 3 seconds
+[17:23:34] [Server thread/INFO]: A draw will be called in 2 seconds
+[17:23:35] [Server thread/INFO]: A draw will be called in 1 seconds
+[17:23:36] [Server thread/INFO]: Game timer stopped game Changed the game state to: ENDING
+[17:23:36] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:37] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:38] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:39] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:40] [Server thread/INFO]: SylusSquared issued server command: /gamemode creative
+[17:23:40] [Server thread/INFO]: [SylusSquared: Set own game mode to Creative Mode]
+[17:23:40] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:41] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:42] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:43] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:44] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:45] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:46] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:47] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:48] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:49] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:50] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:51] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:52] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:53] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:54] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:55] [Server thread/WARN]: [HungerGamesCore] Task #7 for HungerGamesCore v1.0-SNAPSHOT generated an exception
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.Game.getLastPlayer(Game.java:123) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Tasks.EndingTimer.run(EndingTimer.java:46) ~[untitled.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.2.jar:git-Paper-388]
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1532) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:483) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1456) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:23:56] [Server thread/INFO]: You would have been sent back to the lobby
+[17:24:17] [Server thread/INFO]: SylusSquared issued server command: /stop
+[17:24:17] [Server thread/INFO]: [SylusSquared: Stopping the server]
+[17:24:17] [Server thread/INFO]: Stopping server
+[17:24:17] [Server thread/INFO]: [HungerGamesCore] Disabling HungerGamesCore v1.0-SNAPSHOT
+[17:24:17] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.10+1742f98
+[17:24:17] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[17:24:17] [Server thread/INFO]: Saving players
+[17:24:17] [Server thread/INFO]: SylusSquared lost connection: Server closed
+[17:24:17] [Server thread/INFO]: SylusSquared left the game
+[17:24:17] [Server thread/INFO]: Saving worlds
+[17:24:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:24:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:24:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:24:18] [Server thread/INFO]: Flushing Chunk IO
+[17:24:18] [Server thread/INFO]: Closing Thread Pool
+[17:24:18] [Server thread/INFO]: Closing Server

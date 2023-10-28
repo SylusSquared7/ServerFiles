@@ -1,0 +1,408 @@
+[18:38:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:38:30] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[18:38:31] [Worker-Main-1/INFO]: Loaded 7 recipes
+[18:38:33] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[18:38:33] [Server thread/INFO]: Loading properties
+[18:38:33] [Server thread/INFO]: This server is running Paper version git-Paper-388 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: fc9ee65 on ver/1.18.2)
+[18:38:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:38:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:38:33] [Server thread/INFO]: Default game type: SURVIVAL
+[18:38:33] [Server thread/INFO]: Generating keypair
+[18:38:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:38:33] [Server thread/INFO]: Using epoll channel type
+[18:38:33] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:38:33] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[18:38:33] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.10+1742f98
+[18:38:34] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4438cc23]
+[18:38:34] [Server thread/INFO]: [HungerGamesCore] Loading HungerGamesCore v1.0-SNAPSHOT
+[18:38:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:38:34] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.10+1742f98
+[18:38:34] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18:38:34] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:38:34] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_18_R2.PaperweightAdapter as the Bukkit adapter
+[18:38:35] [Server thread/INFO]: Preparing level "world"
+[18:38:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:38:36] [Server thread/INFO]: Time elapsed: 263 ms
+[18:38:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:38:36] [Server thread/INFO]: Time elapsed: 162 ms
+[18:38:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:38:37] [Server thread/INFO]: Time elapsed: 288 ms
+[18:38:37] [Server thread/INFO]: [HungerGamesCore] Enabling HungerGamesCore v1.0-SNAPSHOT
+[18:38:37] [Server thread/INFO]: Main class Changed the game state to: TESTING
+[18:38:37] [Server thread/INFO]: CoreLoaded
+[18:38:37] [Server thread/INFO]: Game state changed to: TESTING
+[18:38:37] [Server thread/INFO]: [HungerGamesCore] [STDOUT] File already exists.
+[18:38:37] [Server thread/WARN]: Nag author(s): '[]' of 'HungerGamesCore' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[18:38:37] [Server thread/INFO]: Running delayed init tasks
+[18:38:37] [Server thread/INFO]: Done (4.430s)! For help, type "help"
+[18:38:37] [Server thread/INFO]: Timings Reset
+[18:38:40] [User Authenticator #1/INFO]: UUID of player SylusSquared is e5c90261-b745-4f34-8d8d-8ca9d73c2ca2
+[18:38:41] [Server thread/INFO]: [HungerGamesCore] [STDOUT] 0PLAYERNUMBERS
+[18:38:41] [Server thread/INFO]: SylusSquared joined the game
+[18:38:41] [Server thread/INFO]: SylusSquared[/127.0.0.1:58356] logged in with entity id 125 at ([world]145.66742380032372, 67.67647087614428, -143.53355990083574)
+[18:38:42] [Server thread/ERROR]: PLAYER JUST DIED
+[18:38:42] [Server thread/INFO]: SylusSquared fell from a high place
+[18:38:52] [Server thread/INFO]: SylusSquared issued server command: /gamemode creative
+[18:38:52] [Server thread/INFO]: [SylusSquared: Set own game mode to Creative Mode]
+[18:39:43] [Server thread/INFO]: SylusSquared issued server command: /gamerule doMobSpawning false
+[18:39:43] [Server thread/INFO]: [SylusSquared: Gamerule doMobSpawning is now set to: false]
+[18:39:52] [Server thread/INFO]: SylusSquared issued server command: /gamerule doDaylightCycle false
+[18:39:52] [Server thread/INFO]: [SylusSquared: Gamerule doDaylightCycle is now set to: false]
+[18:39:58] [Server thread/INFO]: SylusSquared issued server command: /gamerule doWeatherCycle false
+[18:39:58] [Server thread/INFO]: [SylusSquared: Gamerule doWeatherCycle is now set to: false]
+[18:40:06] [Server thread/INFO]: SylusSquared issued server command: /gamerule keepInventory true
+[18:40:06] [Server thread/INFO]: [SylusSquared: Gamerule keepInventory is now set to: true]
+[18:40:11] [Server thread/INFO]: SylusSquared issued server command: /kill @e
+[18:40:11] [Server thread/ERROR]: PLAYER JUST DIED
+[18:40:11] [Server thread/INFO]: SylusSquared fell out of the world
+[18:40:11] [Server thread/INFO]: [SylusSquared: Killed 92 entities]
+[18:40:15] [Server thread/INFO]: SylusSquared issued server command: /kill @e
+[18:40:15] [Server thread/ERROR]: PLAYER JUST DIED
+[18:40:15] [Server thread/INFO]: SylusSquared fell out of the world
+[18:40:15] [Server thread/INFO]: [SylusSquared: Killed 71 entities]
+[18:42:32] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:77) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[18:43:31] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:69) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[18:43:55] [Server thread/INFO]: SylusSquared issued server command: /gamemode adventure
+[18:43:55] [Server thread/INFO]: [SylusSquared: Set own game mode to Adventure Mode]
+[18:44:02] [Server thread/INFO]: SylusSquared issued server command: /gamemode creative
+[18:44:02] [Server thread/INFO]: [SylusSquared: Set own game mode to Creative Mode]
+[18:44:18] [Server thread/INFO]: SylusSquared issued server command: /gamemode adventure
+[18:44:18] [Server thread/INFO]: [SylusSquared: Set own game mode to Adventure Mode]
+[18:44:30] [Server thread/INFO]: SylusSquared issued server command: /gamemode creative
+[18:44:30] [Server thread/INFO]: [SylusSquared: Set own game mode to Creative Mode]
+[18:44:58] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:69) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[18:45:43] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:69) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[18:46:25] [Server thread/INFO]: SylusSquared issued server command: /setstate PREGAME
+[18:46:25] [Server thread/INFO]: Change state command Changed the game state to: PREGAME
+[18:48:15] [Server thread/INFO]: SylusSquared issued server command: /gamemode adventure
+[18:48:15] [Server thread/INFO]: [SylusSquared: Set own game mode to Adventure Mode]
+[18:48:27] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:69) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[18:49:05] [Server thread/INFO]: SylusSquared issued server command: /setstate PREGAME
+[18:49:05] [Server thread/INFO]: Change state command Changed the game state to: PREGAME
+[18:49:07] [Server thread/INFO]: SylusSquared issued server command: /setstate PREGAME
+[18:49:07] [Server thread/INFO]: Change state command Changed the game state to: PREGAME
+[18:49:09] [Server thread/INFO]: SylusSquared issued server command: /gamemode creative
+[18:49:09] [Server thread/INFO]: [SylusSquared: Set own game mode to Creative Mode]
+[18:50:07] [Server thread/INFO]: SylusSquared issued server command: /gamerule doFireTick false
+[18:50:07] [Server thread/INFO]: [SylusSquared: Gamerule doFireTick is now set to: false]
+[18:52:18] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:69) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[18:53:27] [Server thread/INFO]: SylusSquared issued server command: /gamemode spectator
+[18:53:27] [Server thread/INFO]: [SylusSquared: Set own game mode to Spectator Mode]
+[18:54:24] [Server thread/INFO]: SylusSquared issued server command: /gamemode creative
+[18:54:24] [Server thread/INFO]: [SylusSquared: Set own game mode to Creative Mode]
+[18:55:23] [Server thread/INFO]: SylusSquared issued server command: /gamemode c`
+[18:55:34] [Server thread/INFO]: SylusSquared issued server command: /gamemode spectator
+[18:55:34] [Server thread/INFO]: [SylusSquared: Set own game mode to Spectator Mode]
+[18:55:45] [Server thread/INFO]: SylusSquared issued server command: /gamemode creative
+[18:55:45] [Server thread/INFO]: [SylusSquared: Set own game mode to Creative Mode]
+[18:56:29] [Server thread/INFO]: SylusSquared issued server command: /effect give SylusSquared minecraft:night_vision 4444 55
+[18:56:29] [Server thread/INFO]: [SylusSquared: Applied effect Night Vision to SylusSquared]
+[18:58:35] [Server thread/INFO]: SylusSquared issued server command: /gamemode spectator
+[18:58:35] [Server thread/INFO]: [SylusSquared: Set own game mode to Spectator Mode]
+[18:58:49] [Server thread/INFO]: SylusSquared issued server command: /gamemode creative
+[18:58:49] [Server thread/INFO]: [SylusSquared: Set own game mode to Creative Mode]
+[19:03:47] [Server thread/INFO]: SylusSquared issued server command: /effect c
+[19:03:49] [Server thread/INFO]: SylusSquared issued server command: /effect clear
+[19:03:49] [Server thread/INFO]: [SylusSquared: Removed every effect from SylusSquared]
+[19:03:58] [Server thread/INFO]: SylusSquared issued server command: /effect give SylusSquared minecraft:night_vision 4444 55
+[19:03:58] [Server thread/INFO]: [SylusSquared: Applied effect Night Vision to SylusSquared]
+[19:05:01] [Server thread/INFO]: SylusSquared issued server command: /effect clearq
+[19:05:03] [Server thread/INFO]: SylusSquared issued server command: /effect clear
+[19:05:03] [Server thread/INFO]: [SylusSquared: Removed every effect from SylusSquared]
+[19:06:43] [Server thread/INFO]: SylusSquared has made the advancement [Acquire Hardware]
+[19:11:28] [Server thread/INFO]: SylusSquared issued server command: /gamemode spectator
+[19:11:28] [Server thread/INFO]: [SylusSquared: Set own game mode to Spectator Mode]
+[19:11:31] [Server thread/INFO]: SylusSquared issued server command: /gamemode creative
+[19:11:31] [Server thread/INFO]: [SylusSquared: Set own game mode to Creative Mode]
+[19:11:42] [Server thread/INFO]: SylusSquared has made the advancement [Stone Age]
+[19:12:42] [Server thread/INFO]: SylusSquared issued server command: /gamemode spectator
+[19:12:42] [Server thread/INFO]: [SylusSquared: Set own game mode to Spectator Mode]
+[19:12:48] [Server thread/INFO]: SylusSquared issued server command: /gamemode creative
+[19:12:48] [Server thread/INFO]: [SylusSquared: Set own game mode to Creative Mode]
+[19:13:22] [Server thread/INFO]: SylusSquared issued server command: /gamemode spectator
+[19:13:22] [Server thread/INFO]: [SylusSquared: Set own game mode to Spectator Mode]
+[19:13:26] [Server thread/INFO]: SylusSquared issued server command: /gamemode creative
+[19:13:26] [Server thread/INFO]: [SylusSquared: Set own game mode to Creative Mode]
+[19:13:33] [Server thread/INFO]: SylusSquared issued server command: /gamemode creative
+[19:20:12] [Server thread/INFO]: SylusSquared has made the advancement [Glow and Behold!]
+[19:20:31] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:69) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[19:31:46] [Server thread/INFO]: SylusSquared issued server command: /time set day
+[19:31:46] [Server thread/INFO]: [SylusSquared: Set the time to 1000]
+[19:39:50] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to HungerGamesCore v1.0-SNAPSHOT
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at java.util.concurrent.ThreadLocalRandom.nextInt(ThreadLocalRandom.java:453) ~[?:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.fill(ChestManager.java:87) ~[untitled.jar:?]
+	at dev.sylus.HungerGamesCore.Game.ChestManager.onChestOpen(ChestManager.java:69) ~[untitled.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:git-Paper-388]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669) ~[paper-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:1353) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1498) ~[?:?]
+	at net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:270) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1035) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:607) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1852) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:33) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1400) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:188) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1377) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1370) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1348) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[paper-1.18.2.jar:git-Paper-388]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.18.2.jar:git-Paper-388]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[19:42:19] [Server thread/INFO]: SylusSquared issued server command: /setworldspawn 0 33 -3
+[19:42:19] [Server thread/INFO]: [SylusSquared: Set the world spawn point to 0, 33, -3 [0.0]]
+[19:42:26] [Server thread/INFO]: SylusSquared issued server command: /gamemode survival
+[19:42:26] [Server thread/INFO]: [SylusSquared: Set own game mode to Survival Mode]
+[19:42:27] [Server thread/ERROR]: PLAYER JUST DIED
+[19:42:27] [Server thread/INFO]: SylusSquared fell from a high place
+[19:42:38] [Server thread/INFO]: SylusSquared issued server command: /gamemode creative
+[19:42:38] [Server thread/INFO]: [SylusSquared: Set own game mode to Creative Mode]
+[19:42:41] [Server thread/INFO]: SylusSquared issued server command: //stop
+[19:42:45] [Server thread/INFO]: SylusSquared issued server command: /stop
+[19:42:45] [Server thread/INFO]: [SylusSquared: Stopping the server]
+[19:42:45] [Server thread/INFO]: Stopping server
+[19:42:45] [Server thread/INFO]: [HungerGamesCore] Disabling HungerGamesCore v1.0-SNAPSHOT
+[19:42:45] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.10+1742f98
+[19:42:45] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[19:42:45] [Server thread/INFO]: Saving players
+[19:42:45] [Server thread/INFO]: SylusSquared lost connection: Server closed
+[19:42:45] [Server thread/INFO]: SylusSquared left the game
+[19:42:45] [Server thread/INFO]: Saving worlds
+[19:42:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:42:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:42:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:42:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:42:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:42:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:42:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:42:46] [Server thread/INFO]: Flushing Chunk IO
+[19:42:46] [Server thread/INFO]: Closing Thread Pool
+[19:42:46] [Server thread/INFO]: Closing Server
