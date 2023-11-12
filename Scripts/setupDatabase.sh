@@ -9,6 +9,7 @@ read input
 mariadb
 
 CREATE DATABASE playerDB;
+CREATE DATABASE lpData;
 
 USE playerDB;
 

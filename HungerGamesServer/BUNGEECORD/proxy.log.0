@@ -73,3 +73,2679 @@
 20:14:44 [INFO] Saving reconnect locations
 20:14:44 [INFO] Disabling plugins
 20:14:44 [INFO] Closing IO threads
+23:39:59 [INFO] Using mbed TLS based native cipher.
+23:39:59 [INFO] Using zlib based native compressor.
+23:39:59 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+23:39:59 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+23:39:59 [INFO] Epoll is working, utilising it!
+23:39:59 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+23:39:59 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+23:39:59 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+23:39:59 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+23:39:59 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+23:39:59 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+23:39:59 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:39:59 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:39:59 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:39:59 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:39:59 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:39:59 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:39:59 [WARNING] Forced host server pvp is not defined
+23:39:59 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:39:59 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:39:59 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:39:59 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:39:59 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:39:59 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:39:59 [INFO] Listening on /0.0.0.0:25577
+23:50:27 [INFO] §cCommand not found
+23:50:28 [INFO] Closing listener [id: 0xccc09848, L:/[0:0:0:0:0:0:0:0%0]:25577]
+23:50:28 [INFO] Closing pending connections
+23:50:28 [INFO] Disconnecting 0 connections
+23:50:28 [INFO] Saving reconnect locations
+23:50:28 [INFO] Disabling plugins
+23:50:28 [INFO] Closing IO threads
+23:52:36 [INFO] Using mbed TLS based native cipher.
+23:52:36 [INFO] Using zlib based native compressor.
+23:52:36 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+23:52:36 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+23:52:36 [INFO] Epoll is working, utilising it!
+23:52:36 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+23:52:36 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+23:52:36 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+23:52:36 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+23:52:36 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+23:52:36 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+23:52:36 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:52:36 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:52:36 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:52:36 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:52:36 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:52:36 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:52:36 [WARNING] Forced host server pvp is not defined
+23:52:36 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:52:36 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:52:36 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:52:36 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:52:36 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:52:36 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+23:52:36 [INFO] Listening on /0.0.0.0:25577
+23:53:28 [INFO] [/127.0.0.1:35896] <-> InitialHandler has connected
+23:53:30 [INFO] [SylusSquared] disconnected with: §cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+23:53:30 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+23:54:34 [INFO] [/127.0.0.1:37916] <-> InitialHandler has pinged
+23:56:10 [INFO] Closing listener [id: 0x329dba23, L:/[0:0:0:0:0:0:0:0%0]:25577]
+23:56:10 [INFO] Closing pending connections
+23:56:10 [INFO] Disconnecting 0 connections
+23:56:11 [INFO] Saving reconnect locations
+23:56:11 [INFO] Disabling plugins
+23:56:11 [INFO] Closing IO threads
+00:05:22 [INFO] Using mbed TLS based native cipher.
+00:05:22 [INFO] Using zlib based native compressor.
+00:05:22 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+00:05:22 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+00:05:22 [INFO] Epoll is working, utilising it!
+00:05:22 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+00:05:22 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+00:05:22 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+00:05:22 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+00:05:22 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+00:05:22 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+00:05:22 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:05:22 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:05:22 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:05:22 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:05:22 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:05:22 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:05:22 [SEVERE] Exception in thread "main" 
+00:05:22 [SEVERE] java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.conf.YamlConfig.DefaultTabList.LOCAL_PING
+
+00:05:22 [SEVERE] 	at java.base/java.lang.Enum.valueOf(Enum.java:273)
+
+00:05:22 [SEVERE] 	at net.md_5.bungee.conf.YamlConfig$DefaultTabList.valueOf(YamlConfig.java:42)
+
+00:05:22 [SEVERE] 	at net.md_5.bungee.conf.YamlConfig.getListeners(YamlConfig.java:255)
+
+00:05:22 [SEVERE] 	at net.md_5.bungee.conf.Configuration.load(Configuration.java:89)
+
+00:05:22 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:282)
+
+00:05:22 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+
+00:05:22 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+00:06:15 [INFO] Using mbed TLS based native cipher.
+00:06:15 [INFO] Using zlib based native compressor.
+00:06:15 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+00:06:15 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+00:06:15 [INFO] Epoll is working, utilising it!
+00:06:15 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+00:06:15 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+00:06:15 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+00:06:15 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+00:06:15 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+00:06:15 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+00:06:15 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:15 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:15 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:15 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:15 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:15 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:15 [WARNING] Forced host server pvp is not defined
+00:06:15 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:15 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:15 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:15 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:15 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:15 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:15 [WARNING] Could not bind to host /0.0.0.0:25565
+io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+00:06:53 [INFO] Closing pending connections
+00:06:53 [INFO] Disconnecting 0 connections
+00:06:54 [INFO] Saving reconnect locations
+00:06:54 [INFO] Disabling plugins
+00:06:54 [INFO] Closing IO threads
+00:06:58 [INFO] Using mbed TLS based native cipher.
+00:06:58 [INFO] Using zlib based native compressor.
+00:06:58 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+00:06:58 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+00:06:58 [INFO] Epoll is working, utilising it!
+00:06:59 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+00:06:59 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+00:06:59 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+00:06:59 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+00:06:59 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+00:06:59 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+00:06:59 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:59 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:59 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:59 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:59 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:59 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:59 [WARNING] Forced host server pvp is not defined
+00:06:59 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:59 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:59 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:59 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:59 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:59 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:06:59 [WARNING] Could not bind to host /0.0.0.0:25565
+io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+00:07:00 [INFO] Closing pending connections
+00:07:00 [INFO] Disconnecting 0 connections
+00:07:01 [INFO] Saving reconnect locations
+00:07:01 [INFO] Disabling plugins
+00:07:01 [INFO] Closing IO threads
+00:07:11 [INFO] Using mbed TLS based native cipher.
+00:07:11 [INFO] Using zlib based native compressor.
+00:07:11 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+00:07:11 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+00:07:11 [INFO] Epoll is working, utilising it!
+00:07:11 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+00:07:11 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+00:07:11 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+00:07:11 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+00:07:11 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+00:07:11 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+00:07:11 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:07:11 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:07:11 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:07:11 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:07:11 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:07:11 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:07:12 [WARNING] Forced host server pvp is not defined
+00:07:12 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:07:12 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:07:12 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:07:12 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:07:12 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:07:12 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:07:12 [INFO] Listening on /0.0.0.0:25565
+00:09:05 [INFO] [/127.0.0.1:45600] <-> InitialHandler has pinged
+00:09:07 [INFO] [/127.0.0.1:45612] <-> InitialHandler has connected
+00:09:08 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+00:10:37 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+00:10:37 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+00:10:37 [INFO] [/127.0.0.1:35370] <-> InitialHandler has pinged
+00:10:42 [INFO] Closing listener [id: 0xa6bc4e85, L:/[0:0:0:0:0:0:0:0%0]:25565]
+00:10:42 [INFO] Closing pending connections
+00:10:42 [INFO] Disconnecting 0 connections
+00:10:42 [INFO] Saving reconnect locations
+00:10:42 [INFO] Disabling plugins
+00:10:42 [INFO] Closing IO threads
+00:10:49 [INFO] Using mbed TLS based native cipher.
+00:10:49 [INFO] Using zlib based native compressor.
+00:10:49 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+00:10:49 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+00:10:49 [INFO] Epoll is working, utilising it!
+00:10:49 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+00:10:49 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+00:10:49 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+00:10:49 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+00:10:49 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+00:10:49 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+00:10:49 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:10:49 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:10:49 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:10:49 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:10:49 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:10:49 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:10:49 [WARNING] Forced host server pvp is not defined
+00:10:49 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:10:49 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:10:49 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:10:49 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:10:49 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:10:49 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+00:10:49 [INFO] Listening on /0.0.0.0:25565
+00:10:53 [INFO] [/127.0.0.1:55990] <-> InitialHandler has connected
+00:10:54 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+00:11:01 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+00:11:01 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+00:11:34 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+00:11:34 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+00:12:04 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+00:12:04 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+00:13:16 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+00:13:16 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+00:30:26 [INFO] [SylusSquared] disconnected with: §fServer closed
+00:30:26 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+00:30:26 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+00:30:56 [INFO] [SylusSquared,/127.0.0.1:51486] <-> InitialHandler has connected
+00:30:57 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+00:35:34 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+00:35:34 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+00:35:34 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+00:36:02 [INFO] [SylusSquared,/127.0.0.1:57244] <-> InitialHandler has connected
+00:36:02 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+00:58:03 [INFO] [SylusSquared] disconnected with: §fServer closed
+00:58:03 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+00:58:03 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+00:58:33 [INFO] [SylusSquared,/127.0.0.1:41164] <-> InitialHandler has connected
+00:58:33 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+01:00:40 [INFO] [SylusSquared] disconnected with: §fServer closed
+01:00:40 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+01:00:40 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+01:01:55 [INFO] [SylusSquared,/127.0.0.1:50230] <-> InitialHandler has connected
+01:01:55 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+01:05:08 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+01:05:08 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+01:05:08 [INFO] [/127.0.0.1:35404] <-> InitialHandler has pinged
+01:05:09 [INFO] [SylusSquared,/127.0.0.1:35406] <-> InitialHandler has connected
+01:05:10 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+01:07:42 [INFO] [SylusSquared] disconnected with: §fServer closed
+01:07:42 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+01:07:42 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+01:07:59 [INFO] Closing listener [id: 0x6d21b446, L:/[0:0:0:0:0:0:0:0%0]:25565]
+01:07:59 [INFO] Closing pending connections
+01:07:59 [INFO] Disconnecting 0 connections
+01:07:59 [INFO] Saving reconnect locations
+01:07:59 [INFO] Disabling plugins
+01:07:59 [INFO] Closing IO threads
+18:57:34 [INFO] Using mbed TLS based native cipher.
+18:57:34 [INFO] Using zlib based native compressor.
+18:57:34 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+18:57:34 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+18:57:34 [INFO] Epoll is working, utilising it!
+18:57:35 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+18:57:35 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+18:57:35 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+18:57:35 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+18:57:35 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+18:57:35 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+18:57:35 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:57:35 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:57:35 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:57:35 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:57:35 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:57:35 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:57:35 [WARNING] Forced host server pvp is not defined
+18:57:35 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:57:35 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:57:35 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:57:35 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:57:35 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:57:35 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:57:35 [INFO] Listening on /0.0.0.0:25565
+18:58:10 [INFO] [/127.0.0.1:57324] <-> InitialHandler has connected
+18:58:11 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+18:58:11 [INFO] [/127.0.0.1:57328] <-> InitialHandler has connected
+18:58:13 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+19:00:18 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+19:00:19 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+19:00:47 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+19:00:47 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+19:03:09 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+19:03:09 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+19:03:09 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+19:03:09 [INFO] [jr_helper] disconnected with: §cProxy lost connection to server.
+19:03:09 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+19:03:09 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+19:03:12 [INFO] [SylusSquared,/127.0.0.1:39882] <-> InitialHandler has connected
+19:03:13 [INFO] [jr_helper,/127.0.0.1:39888] <-> InitialHandler has connected
+19:03:13 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+19:03:14 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+19:05:07 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+19:05:07 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+19:08:02 [INFO] [jr_helper] disconnected with: §cProxy lost connection to server.
+19:08:02 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+19:08:02 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+19:08:03 [WARNING] [SylusSquared] -> UpstreamBridge - NativeIoException: recvAddress(..) failed: Connection reset by peer
+19:08:03 [INFO] [SylusSquared] disconnected with: §fNativeIoException : recvAddress(..) failed: Connection reset by peer
+19:08:03 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+19:08:03 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+19:09:45 [INFO] Closing listener [id: 0xee695c7e, L:/[0:0:0:0:0:0:0:0%0]:25565]
+19:09:45 [INFO] Closing pending connections
+19:09:45 [INFO] Disconnecting 0 connections
+19:09:45 [INFO] Saving reconnect locations
+19:09:45 [INFO] Disabling plugins
+19:09:45 [INFO] Closing IO threads
+19:21:39 [INFO] Using mbed TLS based native cipher.
+19:21:39 [INFO] Using zlib based native compressor.
+19:21:39 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+19:21:39 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+19:21:39 [INFO] Epoll is working, utilising it!
+19:21:39 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+19:21:39 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+19:21:39 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+19:21:39 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+19:21:39 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+19:21:39 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+19:21:39 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+19:21:39 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+19:21:39 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+19:21:39 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+19:21:39 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+19:21:39 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+19:21:39 [WARNING] Forced host server pvp is not defined
+19:21:39 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+19:21:39 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+19:21:39 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+19:21:39 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+19:21:39 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+19:21:39 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+19:21:39 [INFO] Listening on /0.0.0.0:25565
+19:22:53 [INFO] [/127.0.0.1:50760] <-> InitialHandler has pinged
+19:22:54 [INFO] [/127.0.0.1:50772] <-> InitialHandler has connected
+19:22:55 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+19:23:09 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+19:23:09 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+19:23:09 [INFO] [/127.0.0.1:48150] <-> InitialHandler has pinged
+19:24:46 [INFO] [/127.0.0.1:53950] <-> InitialHandler has pinged
+19:24:46 [INFO] [SylusSquared,/127.0.0.1:53934] <-> InitialHandler has connected
+19:24:47 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+19:50:39 [INFO] [/127.0.0.1:36570] <-> InitialHandler has pinged
+19:50:41 [INFO] [jr_helper,/127.0.0.1:36580] <-> InitialHandler has connected
+19:50:41 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+19:50:42 [WARNING] [jr_helper] -> UpstreamBridge - NativeIoException: recvAddress(..) failed: Connection reset by peer
+19:50:42 [INFO] [jr_helper] disconnected with: §fNativeIoException : recvAddress(..) failed: Connection reset by peer
+19:50:42 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+19:50:42 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+19:50:43 [INFO] [jr_helper,/127.0.0.1:36586] <-> InitialHandler has connected
+19:50:43 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+19:50:51 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+19:50:51 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+20:19:27 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+20:19:27 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+20:19:27 [INFO] [/127.0.0.1:44382] <-> InitialHandler has pinged
+20:19:36 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+20:19:36 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+20:19:36 [INFO] [/127.0.0.1:45296] <-> InitialHandler has pinged
+20:19:45 [INFO] §cCommand not found
+20:19:50 [INFO] §cCommand not found
+20:19:51 [INFO] Closing listener [id: 0x60de0984, L:/[0:0:0:0:0:0:0:0%0]:25565]
+20:19:51 [INFO] Closing pending connections
+20:19:51 [INFO] Disconnecting 0 connections
+20:19:52 [INFO] Saving reconnect locations
+20:19:52 [INFO] Disabling plugins
+20:19:52 [INFO] Closing IO threads
+15:28:33 [INFO] Using mbed TLS based native cipher.
+15:28:33 [INFO] Using zlib based native compressor.
+15:28:33 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+15:28:33 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+15:28:33 [INFO] Epoll is working, utilising it!
+15:28:33 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+15:28:33 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+15:28:33 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+15:28:33 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+15:28:33 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+15:28:33 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+15:28:33 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:33 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:33 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:33 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:33 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:33 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:33 [WARNING] Forced host server pvp is not defined
+15:28:33 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:33 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:33 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:33 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:33 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:33 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:33 [INFO] Listening on /0.0.0.0:25565
+15:29:20 [INFO] [/127.0.0.1:37386] <-> InitialHandler has connected
+15:29:20 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+15:30:00 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+15:30:00 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+15:30:28 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+15:30:28 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+15:34:39 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+15:34:39 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+15:41:08 [INFO] [SylusSquared] disconnected with: §fServer closed
+15:41:08 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+15:41:08 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+15:41:13 [INFO] Closing listener [id: 0x4146c33d, L:/[0:0:0:0:0:0:0:0%0]:25565]
+15:41:13 [INFO] Closing pending connections
+15:41:13 [INFO] Disconnecting 0 connections
+15:41:14 [INFO] Saving reconnect locations
+15:41:14 [INFO] Disabling plugins
+15:41:14 [INFO] Closing IO threads
+17:53:27 [INFO] Using mbed TLS based native cipher.
+17:53:27 [INFO] Using zlib based native compressor.
+17:53:27 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+17:53:27 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+17:53:27 [INFO] Epoll is working, utilising it!
+17:53:27 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+17:53:27 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+17:53:27 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+17:53:27 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+17:53:27 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+17:53:27 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+17:53:27 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:53:27 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:53:27 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:53:27 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:53:27 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:53:27 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:53:27 [WARNING] Forced host server pvp is not defined
+17:53:27 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:53:27 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:53:27 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:53:27 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:53:27 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:53:27 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:53:27 [INFO] Listening on /0.0.0.0:25565
+17:55:06 [INFO] [/127.0.0.1:45718] <-> InitialHandler has pinged
+17:55:07 [INFO] [/127.0.0.1:45722] <-> InitialHandler has pinged
+17:55:08 [INFO] [/127.0.0.1:45726] <-> InitialHandler has connected
+17:55:09 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+17:55:10 [INFO] [/127.0.0.1:45740] <-> InitialHandler has connected
+17:55:10 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+17:55:42 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+17:55:42 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+17:55:49 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+17:55:49 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+17:56:00 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+17:56:00 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+17:56:05 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+17:56:05 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+17:58:23 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+17:58:23 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+17:58:23 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+17:58:23 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+17:58:33 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+17:58:33 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+17:58:33 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+17:58:33 [INFO] [jr_helper] disconnected with: §fServer closed
+17:58:33 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+17:58:33 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+17:58:42 [INFO] Closing listener [id: 0xd13c1a16, L:/[0:0:0:0:0:0:0:0%0]:25565]
+17:58:42 [INFO] Closing pending connections
+17:58:42 [INFO] Disconnecting 0 connections
+17:58:42 [INFO] Saving reconnect locations
+17:58:42 [INFO] Disabling plugins
+17:58:42 [INFO] Closing IO threads
+18:06:50 [INFO] Using mbed TLS based native cipher.
+18:06:50 [INFO] Using zlib based native compressor.
+18:06:50 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+18:06:50 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+18:06:50 [INFO] Epoll is working, utilising it!
+18:06:50 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+18:06:50 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+18:06:50 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+18:06:50 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+18:06:50 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+18:06:50 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+18:06:50 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:06:50 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:06:50 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:06:50 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:06:50 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:06:50 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:06:51 [WARNING] Forced host server pvp is not defined
+18:06:51 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:06:51 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:06:51 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:06:51 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:06:51 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:06:51 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:06:51 [INFO] Listening on /0.0.0.0:25565
+18:08:03 [INFO] [/127.0.0.1:41898] <-> InitialHandler has connected
+18:08:04 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+18:08:27 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+18:08:28 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+18:28:55 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+18:28:55 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+18:28:55 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+18:30:14 [INFO] [SylusSquared,/127.0.0.1:49432] <-> InitialHandler has connected
+18:30:14 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+18:30:22 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+18:30:22 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+18:30:22 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+18:30:38 [INFO] Closing listener [id: 0x01ad0277, L:/[0:0:0:0:0:0:0:0%0]:25565]
+18:30:38 [INFO] Closing pending connections
+18:30:38 [INFO] Disconnecting 0 connections
+18:30:39 [INFO] Saving reconnect locations
+18:30:39 [INFO] Disabling plugins
+18:30:39 [INFO] Closing IO threads
+20:25:36 [INFO] Using mbed TLS based native cipher.
+20:25:36 [INFO] Using zlib based native compressor.
+20:25:36 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+20:25:36 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:25:36 [INFO] Epoll is working, utilising it!
+20:25:36 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+20:25:36 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+20:25:36 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+20:25:36 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+20:25:36 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+20:25:36 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+20:25:36 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+20:25:36 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+20:25:36 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+20:25:36 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+20:25:36 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+20:25:36 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+20:25:36 [WARNING] Forced host server pvp is not defined
+20:25:36 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+20:25:36 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+20:25:36 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+20:25:36 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+20:25:36 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+20:25:36 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+20:25:36 [INFO] Listening on /0.0.0.0:25565
+20:26:43 [INFO] [/127.0.0.1:53008] <-> InitialHandler has connected
+20:26:44 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+20:27:28 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+20:27:29 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+20:31:20 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+20:31:20 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+20:31:20 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+20:31:35 [INFO] [/127.0.0.1:51162] <-> InitialHandler has connected
+20:31:36 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+20:39:26 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+20:39:26 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+20:39:35 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+20:39:35 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+21:03:43 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+21:03:43 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+21:04:29 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+21:04:30 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+21:12:00 [INFO] [/127.0.0.1:39166] <-> InitialHandler has pinged
+21:12:02 [INFO] [jr_helper,/127.0.0.1:39170] <-> InitialHandler has connected
+21:12:02 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+21:12:14 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+21:12:14 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+21:14:00 [INFO] [jr_helper] disconnected with: §fYou are banned from this server
+21:14:00 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+21:14:00 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+21:14:03 [INFO] [jr_helper,/127.0.0.1:54074] <-> InitialHandler has connected
+21:14:03 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+21:14:03 [INFO] [jr_helper] disconnected with: §cKicked whilst connecting to game: §fYou are banned from this server.
+Reason: §fBanned by an operator.
+21:14:03 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+21:14:03 [INFO] [jr_helper] <-> ServerConnector [game] has disconnected
+21:14:14 [INFO] [jr_helper,/127.0.0.1:47856] <-> InitialHandler has connected
+21:14:15 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+22:56:45 [INFO] [jr_helper] disconnected with: §cProxy lost connection to server.
+22:56:45 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+22:56:45 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+22:56:45 [INFO] [SylusSquared] disconnected with: §fServer closed
+22:56:45 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+22:56:45 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+22:57:01 [INFO] Closing listener [id: 0x8c33a446, L:/[0:0:0:0:0:0:0:0%0]:25565]
+22:57:01 [INFO] Closing pending connections
+22:57:01 [INFO] Disconnecting 0 connections
+22:57:02 [INFO] Saving reconnect locations
+22:57:02 [INFO] Disabling plugins
+22:57:02 [INFO] Closing IO threads
+22:57:04 [INFO] Thank you and goodbye
+15:02:41 [INFO] Using mbed TLS based native cipher.
+15:02:41 [INFO] Using zlib based native compressor.
+15:02:41 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+15:02:41 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+15:02:41 [INFO] Epoll is working, utilising it!
+15:02:41 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+15:02:41 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+15:02:41 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+15:02:41 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+15:02:41 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+15:02:41 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+15:02:41 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:02:41 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:02:41 [INFO] Loaded plugin BungeeNegativity version 1.14 by Elikill58
+15:02:41 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:02:41 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:02:41 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:02:41 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:02:41 [WARNING] Forced host server pvp is not defined
+15:02:41 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:02:41 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:02:41 [INFO] Enabled plugin BungeeNegativity version 1.14 by Elikill58
+15:02:41 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:02:41 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:02:41 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:02:41 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:02:41 [INFO] Listening on /0.0.0.0:25565
+15:04:25 [INFO] [/127.0.0.1:55278] <-> InitialHandler has pinged
+15:04:27 [INFO] [/127.0.0.1:55286] <-> InitialHandler has connected
+15:04:28 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+15:06:05 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+15:06:05 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+15:06:05 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+15:18:07 [INFO] [SylusSquared,/127.0.0.1:43326] <-> InitialHandler has connected
+15:18:10 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+15:20:23 [INFO] [/127.0.0.1:45040] <-> InitialHandler has pinged
+15:20:24 [INFO] [jr_helper,/127.0.0.1:45052] <-> InitialHandler has connected
+15:20:24 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+15:21:27 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+15:21:30 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+15:21:39 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+15:21:39 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+15:23:40 [INFO] [jr_helper] disconnected with: §cProxy lost connection to server.
+15:23:40 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+15:23:40 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+15:23:41 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+15:23:41 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+15:23:41 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+15:23:52 [INFO] [/127.0.0.1:55854] <-> InitialHandler has pinged
+15:23:57 [INFO] [SylusSquared,/127.0.0.1:55870] <-> InitialHandler has connected
+15:23:58 [INFO] [/127.0.0.1:55882] <-> InitialHandler has connected
+15:23:58 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+15:23:59 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+15:25:31 [INFO] [jr_helper] disconnected with: §fYou have been kicked by jr_helper for test
+15:25:31 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+15:25:31 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+15:25:36 [INFO] [jr_helper,/127.0.0.1:39990] <-> InitialHandler has connected
+15:25:37 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+15:26:14 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+15:26:14 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+15:26:15 [INFO] [/127.0.0.1:47278] <-> InitialHandler has pinged
+15:26:16 [INFO] [jr_helper,/127.0.0.1:47284] <-> InitialHandler has connected
+15:26:18 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+15:28:26 [INFO] [jr_helper] disconnected with: §cProxy lost connection to server.
+15:28:26 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+15:28:26 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+15:28:26 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+15:28:26 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+15:28:26 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+15:28:33 [INFO] Closing listener [id: 0x4c99656c, L:/[0:0:0:0:0:0:0:0%0]:25565]
+15:28:33 [INFO] Closing pending connections
+15:28:33 [INFO] Disconnecting 0 connections
+15:28:34 [INFO] Saving reconnect locations
+15:28:34 [INFO] Disabling plugins
+15:28:34 [INFO] Closing IO threads
+15:28:48 [INFO] Using mbed TLS based native cipher.
+15:28:48 [INFO] Using zlib based native compressor.
+15:28:48 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+15:28:48 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+15:28:48 [INFO] Epoll is working, utilising it!
+15:28:48 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+15:28:48 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+15:28:48 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+15:28:48 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+15:28:48 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+15:28:48 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+15:28:48 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:48 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:48 [INFO] Loaded plugin BungeeNegativity version 1.14 by Elikill58
+15:28:48 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:48 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:48 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:48 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:48 [WARNING] Forced host server pvp is not defined
+15:28:48 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:48 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:48 [INFO] Enabled plugin BungeeNegativity version 1.14 by Elikill58
+15:28:48 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:48 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:48 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:48 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:28:48 [INFO] Listening on /0.0.0.0:25565
+15:28:58 [INFO] [/127.0.0.1:55392] <-> InitialHandler has connected
+15:28:59 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+15:29:02 [INFO] [/127.0.0.1:44612] <-> InitialHandler has connected
+15:29:02 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+15:29:05 [WARNING] Plugin listener com.elikill58.negativity.bungee.NegativityListener took 67ms to process event ServerConnectedEvent(player=jr_helper, server=net.md_5.bungee.ServerConnection@72fd248f)!
+15:29:19 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+15:29:19 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+15:29:23 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+15:29:23 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+15:55:15 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+15:55:15 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+15:55:25 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+15:55:25 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+15:56:24 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+15:56:24 [INFO] [SylusSquared] <-> ServerConnector [game] has disconnected
+15:56:31 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+15:56:31 [INFO] [SylusSquared] <-> ServerConnector [game] has disconnected
+15:56:46 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+15:56:46 [INFO] [SylusSquared] <-> ServerConnector [game] has disconnected
+15:57:10 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+15:57:10 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+15:57:10 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+15:57:10 [INFO] [jr_helper] disconnected with: §cProxy lost connection to server.
+15:57:10 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+15:57:10 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+15:57:14 [INFO] Closing listener [id: 0xc837a0f9, L:/[0:0:0:0:0:0:0:0%0]:25565]
+15:57:14 [INFO] Closing pending connections
+15:57:14 [INFO] Disconnecting 0 connections
+15:57:14 [INFO] Saving reconnect locations
+15:57:14 [INFO] Disabling plugins
+15:57:14 [INFO] Closing IO threads
+15:57:33 [INFO] Using mbed TLS based native cipher.
+15:57:33 [INFO] Using zlib based native compressor.
+15:57:33 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+15:57:33 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+15:57:33 [INFO] Epoll is working, utilising it!
+15:57:33 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+15:57:33 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+15:57:33 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+15:57:33 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+15:57:33 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+15:57:33 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+15:57:33 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:57:33 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:57:33 [INFO] Loaded plugin BungeeNegativity version 1.14 by Elikill58
+15:57:33 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:57:33 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:57:33 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:57:33 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:57:33 [WARNING] Forced host server pvp is not defined
+15:57:33 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:57:33 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:57:33 [INFO] Enabled plugin BungeeNegativity version 1.14 by Elikill58
+15:57:33 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:57:33 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:57:33 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:57:33 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+15:57:33 [INFO] Listening on /0.0.0.0:25565
+15:58:20 [INFO] [/127.0.0.1:33604] <-> InitialHandler has connected
+15:58:21 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+15:58:21 [INFO] [SylusSquared] disconnected with: §cKicked whilst connecting to lobby: §fUnknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
+15:58:21 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+15:58:21 [INFO] [SylusSquared] <-> ServerConnector [lobby] has disconnected
+15:58:22 [INFO] [/127.0.0.1:33608] <-> InitialHandler has connected
+15:58:23 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+15:58:23 [INFO] [jr_helper] disconnected with: §cKicked whilst connecting to lobby: §fUnknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
+15:58:23 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+15:58:23 [INFO] [jr_helper] <-> ServerConnector [lobby] has disconnected
+15:58:58 [INFO] [/127.0.0.1:51366] <-> InitialHandler has connected
+15:59:02 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+15:59:02 [INFO] [SylusSquared] disconnected with: §cKicked whilst connecting to lobby: §fUnknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
+15:59:02 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+15:59:02 [INFO] [SylusSquared] <-> ServerConnector [lobby] has disconnected
+16:00:23 [INFO] [/127.0.0.1:49748] <-> InitialHandler has pinged
+16:00:24 [INFO] [SylusSquared,/127.0.0.1:49754] <-> InitialHandler has connected
+16:00:25 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+16:00:25 [INFO] [SylusSquared] disconnected with: §cKicked whilst connecting to lobby: §fUnknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
+16:00:25 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+16:00:25 [INFO] [SylusSquared] <-> ServerConnector [lobby] has disconnected
+16:00:59 [INFO] [/127.0.0.1:53154] <-> InitialHandler has connected
+16:01:00 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+16:01:09 [INFO] [jr_helper,/127.0.0.1:35258] <-> InitialHandler has connected
+16:01:11 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+16:01:29 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+16:01:29 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+16:01:33 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+16:01:33 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+16:34:12 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+16:34:12 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+16:34:12 [INFO] [/127.0.0.1:40868] <-> InitialHandler has pinged
+16:34:15 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+16:34:15 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+16:34:15 [INFO] [/127.0.0.1:40876] <-> InitialHandler has pinged
+16:34:34 [INFO] Closing listener [id: 0x1e85ed9f, L:/[0:0:0:0:0:0:0:0%0]:25565]
+16:34:34 [INFO] Closing pending connections
+16:34:34 [INFO] Disconnecting 0 connections
+16:34:35 [INFO] Saving reconnect locations
+16:34:35 [INFO] Disabling plugins
+16:34:35 [INFO] Closing IO threads
+16:38:05 [INFO] Using mbed TLS based native cipher.
+16:38:05 [INFO] Using zlib based native compressor.
+16:38:05 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+16:38:05 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+16:38:05 [INFO] Epoll is working, utilising it!
+16:38:05 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+16:38:05 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+16:38:05 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+16:38:05 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+16:38:05 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+16:38:05 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+16:38:05 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:38:05 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:38:05 [INFO] Loaded plugin AdvancedBan version 2.3.0 by Leoko
+16:38:05 [INFO] Loaded plugin BungeeNegativity version 1.14 by Elikill58
+16:38:05 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:38:05 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:38:05 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:38:05 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:38:05 [WARNING] Forced host server pvp is not defined
+16:38:05 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:38:05 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:38:05 [INFO] §f[AdvancedBan] No offline permission support through LuckPerms
+16:38:05 [INFO] HikariPool-1 - Starting...
+16:38:05 [SEVERE] Nov 06, 2023 4:38:05 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: Checkpoint start
+
+16:38:05 [SEVERE] Nov 06, 2023 4:38:05 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: checkpointClose start
+
+16:38:05 [SEVERE] Nov 06, 2023 4:38:05 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: checkpointClose synched
+
+16:38:05 [SEVERE] Nov 06, 2023 4:38:05 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: checkpointClose script done
+
+16:38:05 [SEVERE] Nov 06, 2023 4:38:05 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: checkpointClose end
+
+16:38:05 [SEVERE] Nov 06, 2023 4:38:05 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: Checkpoint end - txts: 1
+
+16:38:05 [SEVERE] Nov 06, 2023 4:38:05 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase getAndSetNetworkTimeout
+INFO: HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+
+16:38:05 [SEVERE] Nov 06, 2023 4:38:05 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource <init>
+INFO: HikariPool-1 - Start completed.
+
+16:38:06 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+16:38:06 [INFO] Enabled plugin AdvancedBan version 2.3.0 by Leoko
+16:38:06 [INFO] [BungeeNegativity] Loaded support for AdvancedBan.
+16:38:06 [INFO] Enabled plugin BungeeNegativity version 1.14 by Elikill58
+16:38:06 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:38:06 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:38:06 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:38:06 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:38:06 [INFO] Listening on /0.0.0.0:25565
+16:38:38 [INFO] [/127.0.0.1:44568] <-> InitialHandler has connected
+16:38:39 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+16:39:03 [INFO] [jr_helper,/127.0.0.1:50066] <-> InitialHandler has connected
+16:39:05 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+16:39:12 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+16:39:13 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+16:53:05 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+16:53:05 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+16:53:05 [INFO] [/127.0.0.1:35956] <-> InitialHandler has pinged
+16:53:09 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+16:53:09 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+16:53:09 [INFO] [/127.0.0.1:35968] <-> InitialHandler has pinged
+16:53:17 [INFO] §cCommand not found
+16:53:20 [INFO] Closing listener [id: 0x6d2fbfd5, L:/[0:0:0:0:0:0:0:0%0]:25565]
+16:53:20 [INFO] Closing pending connections
+16:53:20 [INFO] Disconnecting 0 connections
+16:53:20 [INFO] Saving reconnect locations
+16:53:20 [INFO] Disabling plugins
+16:53:20 [SEVERE] Nov 06, 2023 4:53:20 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+
+16:53:20 [SEVERE] Nov 06, 2023 4:53:20 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown initiated...
+
+16:53:20 [SEVERE] Nov 06, 2023 4:53:20 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown completed.
+
+16:53:20 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+16:53:20 [INFO] Closing IO threads
+16:53:44 [INFO] Using mbed TLS based native cipher.
+16:53:44 [INFO] Using zlib based native compressor.
+16:53:44 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+16:53:44 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+16:53:44 [INFO] Epoll is working, utilising it!
+16:53:44 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+16:53:44 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+16:53:44 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+16:53:44 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+16:53:44 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+16:53:44 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+16:53:44 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:53:44 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:53:44 [INFO] Loaded plugin AdvancedBan version 2.3.0 by Leoko
+16:53:44 [INFO] Loaded plugin BungeeNegativity version 1.14 by Elikill58
+16:53:44 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:53:44 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:53:44 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:53:44 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:53:44 [WARNING] Forced host server pvp is not defined
+16:53:44 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:53:44 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:53:44 [INFO] §f[AdvancedBan] No offline permission support through LuckPerms
+16:53:44 [INFO] HikariPool-1 - Starting...
+16:53:45 [INFO] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+16:53:45 [INFO] HikariPool-1 - Start completed.
+16:53:45 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+16:53:45 [INFO] Enabled plugin AdvancedBan version 2.3.0 by Leoko
+16:53:45 [INFO] [BungeeNegativity] Loaded support for AdvancedBan.
+16:53:45 [INFO] Enabled plugin BungeeNegativity version 1.14 by Elikill58
+16:53:45 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:53:45 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:53:45 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:53:45 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+16:53:45 [INFO] Listening on /0.0.0.0:25565
+16:53:51 [INFO] [/127.0.0.1:37246] <-> InitialHandler has connected
+16:53:52 [INFO] [SylusSquared] disconnected with: §cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+16:53:52 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+16:53:58 [INFO] [/127.0.0.1:37254] <-> InitialHandler has connected
+16:54:00 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+16:57:11 [INFO] [jr_helper,/127.0.0.1:40578] <-> InitialHandler has connected
+16:57:11 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+16:58:38 [INFO] [jr_helper] disconnected with: §c§lAdvancedBan §8§l» §7You got kicked
+§7
+§cReason §8» §7test
+§7
+16:58:38 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+16:58:38 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+17:05:55 [INFO] [jr_helper,/127.0.0.1:37062] <-> InitialHandler has connected
+17:05:56 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+17:06:26 [INFO] [jr_helper] disconnected with: §c§lAdvancedBan §8§l» §7Temporarily banned
+§7
+§7
+§cReason §8» §7none
+§cDuration §8» §760 seconds
+§7
+§8Unban application in TS or forum
+§eTS-Ip §8» §c§ncoming soon
+§eForum §8» §c§ncoming soon
+17:06:26 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+17:06:26 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+17:06:50 [INFO] [jr_helper,/127.0.0.1:60088] <-> InitialHandler has connected
+17:07:27 [INFO] [jr_helper,/127.0.0.1:33382] <-> InitialHandler has connected
+17:07:28 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+17:26:47 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+17:26:47 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+17:26:47 [INFO] [/127.0.0.1:60270] <-> InitialHandler has pinged
+17:28:27 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+17:28:27 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+17:28:27 [INFO] [/127.0.0.1:60490] <-> InitialHandler has pinged
+17:29:00 [INFO] Closing listener [id: 0xdfb26b90, L:/[0:0:0:0:0:0:0:0%0]:25565]
+17:29:00 [INFO] Closing pending connections
+17:29:00 [INFO] Disconnecting 0 connections
+17:29:00 [INFO] Saving reconnect locations
+17:29:00 [INFO] Disabling plugins
+17:29:00 [SEVERE] Nov 06, 2023 5:29:00 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+
+17:29:00 [SEVERE] Nov 06, 2023 5:29:00 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown initiated...
+
+17:29:00 [SEVERE] Nov 06, 2023 5:29:00 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown completed.
+
+17:29:00 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+17:29:00 [INFO] Closing IO threads
+17:32:09 [INFO] Using mbed TLS based native cipher.
+17:32:09 [INFO] Using zlib based native compressor.
+17:32:09 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+17:32:09 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+17:32:09 [INFO] Epoll is working, utilising it!
+17:32:09 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+17:32:09 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+17:32:09 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+17:32:09 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+17:32:09 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+17:32:09 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+17:32:09 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:32:09 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:32:09 [INFO] Loaded plugin AdvancedBan version 2.3.0 by Leoko
+17:32:09 [INFO] Loaded plugin BungeeNegativity version 1.14 by Elikill58
+17:32:09 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:32:09 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:32:09 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:32:09 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:32:09 [WARNING] Forced host server pvp is not defined
+17:32:09 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:32:09 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:32:09 [INFO] §f[AdvancedBan] No offline permission support through LuckPerms
+17:32:09 [INFO] HikariPool-1 - Starting...
+17:32:10 [INFO] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+17:32:10 [INFO] HikariPool-1 - Start completed.
+17:32:10 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+17:32:10 [INFO] Enabled plugin AdvancedBan version 2.3.0 by Leoko
+17:32:11 [INFO] [BungeeNegativity] Loaded support for AdvancedBan.
+17:32:11 [INFO] Enabled plugin BungeeNegativity version 1.14 by Elikill58
+17:32:11 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:32:11 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:32:11 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:32:11 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:32:11 [INFO] Listening on /0.0.0.0:25565
+17:34:17 [INFO] [/127.0.0.1:58042] <-> InitialHandler has pinged
+17:34:18 [INFO] [/127.0.0.1:58050] <-> InitialHandler has connected
+17:34:19 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+17:34:35 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+17:34:35 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+17:34:35 [INFO] [/127.0.0.1:37280] <-> InitialHandler has pinged
+17:35:05 [INFO] [/127.0.0.1:47254] <-> InitialHandler has pinged
+17:35:06 [INFO] [jr_helper,/127.0.0.1:47270] <-> InitialHandler has connected
+17:35:07 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+17:35:09 [INFO] [/127.0.0.1:47280] <-> InitialHandler has pinged
+17:35:10 [INFO] [/127.0.0.1:47286] <-> InitialHandler has connected
+17:35:10 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+17:35:13 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+17:35:13 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+17:35:14 [INFO] [/127.0.0.1:41844] <-> InitialHandler has pinged
+18:04:39 [INFO] [SylusSquared] disconnected with: §fServer closed
+18:04:39 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+18:04:39 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+18:04:52 [INFO] Closing listener [id: 0x4058f855, L:/[0:0:0:0:0:0:0:0%0]:25565]
+18:04:52 [INFO] Closing pending connections
+18:04:52 [INFO] Disconnecting 0 connections
+18:04:52 [INFO] Saving reconnect locations
+18:04:52 [INFO] Disabling plugins
+18:04:52 [SEVERE] Nov 06, 2023 6:04:52 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+
+18:04:52 [SEVERE] Nov 06, 2023 6:04:52 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown initiated...
+
+18:04:52 [SEVERE] Nov 06, 2023 6:04:52 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown completed.
+
+18:04:52 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+18:04:52 [INFO] Closing IO threads
+18:11:00 [INFO] Using mbed TLS based native cipher.
+18:11:00 [INFO] Using zlib based native compressor.
+18:11:00 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+18:11:01 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+18:11:01 [INFO] Epoll is working, utilising it!
+18:11:01 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+18:11:01 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+18:11:01 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+18:11:01 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+18:11:01 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+18:11:01 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+18:11:01 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:11:01 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:11:01 [INFO] Loaded plugin AdvancedBan version 2.3.0 by Leoko
+18:11:01 [INFO] Loaded plugin BungeeNegativity version 1.14 by Elikill58
+18:11:01 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:11:01 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:11:01 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:11:01 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:11:01 [WARNING] Forced host server pvp is not defined
+18:11:01 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:11:01 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:11:01 [INFO] §f[AdvancedBan] No offline permission support through LuckPerms
+18:11:01 [INFO] HikariPool-1 - Starting...
+18:11:02 [INFO] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+18:11:02 [INFO] HikariPool-1 - Start completed.
+18:11:03 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+18:11:03 [INFO] Enabled plugin AdvancedBan version 2.3.0 by Leoko
+18:11:03 [INFO] [BungeeNegativity] Loaded support for AdvancedBan.
+18:11:03 [INFO] Enabled plugin BungeeNegativity version 1.14 by Elikill58
+18:11:03 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:11:03 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:11:03 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:11:03 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:11:03 [INFO] Listening on /0.0.0.0:25565
+18:11:20 [INFO] [/127.0.0.1:45620] <-> InitialHandler has connected
+18:11:21 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+18:11:49 [INFO] [SylusSquared,/127.0.0.1:41412] <-> InitialHandler has connected
+18:11:49 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+18:12:00 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+18:12:00 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+18:12:51 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+18:12:52 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+18:12:59 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+18:12:59 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+18:15:11 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+18:15:11 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+18:15:18 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+18:15:19 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+18:16:00 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+18:16:00 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+18:16:04 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+18:16:04 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+18:16:22 [INFO] [jr_helper] disconnected with: §fFlying is not enabled on this server
+18:16:22 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+18:16:22 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+18:16:27 [INFO] [jr_helper,/127.0.0.1:57372] <-> InitialHandler has connected
+18:16:27 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+18:16:58 [INFO] [jr_helper] disconnected with: §fFlying is not enabled on this server
+18:16:58 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+18:16:58 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+18:17:01 [INFO] [jr_helper,/127.0.0.1:58908] <-> InitialHandler has connected
+18:17:01 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+18:17:22 [INFO] [jr_helper] disconnected with: §fFlying is not enabled on this server
+18:17:22 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+18:17:22 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+18:17:23 [INFO] [/127.0.0.1:58850] <-> InitialHandler has connected
+18:17:24 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+18:18:54 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+18:18:54 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+18:18:54 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+18:18:54 [INFO] [jr_helper] disconnected with: §cProxy lost connection to server.
+18:18:54 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+18:18:54 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+18:19:18 [INFO] [/127.0.0.1:42518] <-> InitialHandler has connected
+18:19:22 [INFO] [/127.0.0.1:41628] <-> InitialHandler has connected
+18:19:24 [INFO] [/127.0.0.1:41634] <-> InitialHandler has connected
+18:19:33 [INFO] [SylusSquared,/127.0.0.1:55758] <-> InitialHandler has connected
+18:19:35 [INFO] [/127.0.0.1:55770] <-> InitialHandler has pinged
+18:19:36 [INFO] [jr_helper,/127.0.0.1:55780] <-> InitialHandler has connected
+18:19:37 [INFO] [SylusSquared,/127.0.0.1:55784] <-> InitialHandler has connected
+18:19:39 [INFO] [/127.0.0.1:55800] <-> InitialHandler has connected
+18:19:40 [INFO] [/127.0.0.1:55814] <-> InitialHandler has pinged
+18:19:50 [INFO] [SylusSquared,/127.0.0.1:41478] <-> InitialHandler has connected
+18:19:50 [INFO] [/127.0.0.1:41492] <-> InitialHandler has pinged
+18:19:51 [INFO] [/127.0.0.1:39556] <-> InitialHandler has pinged
+18:19:53 [INFO] [jr_helper,/127.0.0.1:39566] <-> InitialHandler has connected
+18:20:08 [INFO] [/127.0.0.1:57908] <-> InitialHandler has pinged
+18:20:09 [INFO] [/127.0.0.1:57916] <-> InitialHandler has pinged
+18:20:11 [INFO] [SylusSquared,/127.0.0.1:57920] <-> InitialHandler has connected
+18:20:11 [INFO] [/127.0.0.1:38072] <-> InitialHandler has pinged
+18:20:26 [INFO] [SylusSquared,/127.0.0.1:38964] <-> InitialHandler has connected
+18:20:35 [INFO] [/127.0.0.1:52682] <-> InitialHandler has pinged
+18:20:35 [INFO] [/127.0.0.1:52692] <-> InitialHandler has pinged
+18:20:36 [INFO] [/127.0.0.1:52704] <-> InitialHandler has pinged
+18:20:36 [INFO] [/127.0.0.1:52708] <-> InitialHandler has pinged
+18:20:36 [INFO] [/127.0.0.1:52718] <-> InitialHandler has pinged
+18:20:36 [INFO] [/127.0.0.1:52722] <-> InitialHandler has pinged
+18:20:38 [INFO] [SylusSquared,/127.0.0.1:52736] <-> InitialHandler has connected
+18:21:15 [INFO] [SylusSquared,/127.0.0.1:44282] <-> InitialHandler has connected
+18:21:15 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+18:21:22 [INFO] [jr_helper,/127.0.0.1:35224] <-> InitialHandler has connected
+18:21:23 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+18:23:56 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+18:23:56 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+18:24:00 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+18:24:00 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+18:24:53 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+18:24:53 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+18:25:02 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+18:25:02 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+18:27:03 [INFO] [jr_helper] disconnected with: §cProxy lost connection to server.
+18:27:03 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+18:27:03 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+18:27:03 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+18:27:03 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+18:27:03 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+18:27:10 [INFO] §cCommand not found
+18:27:11 [INFO] Closing listener [id: 0x359787eb, L:/[0:0:0:0:0:0:0:0%0]:25565]
+18:27:11 [INFO] Closing pending connections
+18:27:11 [INFO] Disconnecting 0 connections
+18:27:12 [INFO] Saving reconnect locations
+18:27:12 [INFO] Disabling plugins
+18:27:12 [SEVERE] Nov 06, 2023 6:27:12 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+
+18:27:12 [SEVERE] Nov 06, 2023 6:27:12 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown initiated...
+
+18:27:12 [SEVERE] Nov 06, 2023 6:27:12 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown completed.
+
+18:27:12 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+18:27:12 [INFO] Closing IO threads
+22:41:15 [INFO] Using mbed TLS based native cipher.
+22:41:15 [INFO] Using zlib based native compressor.
+22:41:15 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+22:41:15 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+22:41:15 [INFO] Epoll is working, utilising it!
+22:41:15 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+22:41:15 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+22:41:15 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+22:41:15 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+22:41:15 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+22:41:15 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+22:41:15 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+22:41:15 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+22:41:15 [INFO] Loaded plugin AdvancedBan version 2.3.0 by Leoko
+22:41:15 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+22:41:15 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+22:41:15 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+22:41:15 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+22:41:15 [WARNING] Forced host server pvp is not defined
+22:41:15 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+22:41:15 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+22:41:15 [INFO] §f[AdvancedBan] No offline permission support through LuckPerms
+22:41:15 [INFO] HikariPool-1 - Starting...
+22:41:16 [INFO] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+22:41:16 [INFO] HikariPool-1 - Start completed.
+22:41:16 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+22:41:16 [INFO] Enabled plugin AdvancedBan version 2.3.0 by Leoko
+22:41:16 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+22:41:16 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+22:41:16 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+22:41:16 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+22:41:17 [INFO] Listening on /0.0.0.0:25565
+22:42:23 [INFO] [/127.0.0.1:58522] <-> InitialHandler has pinged
+22:42:25 [INFO] [/127.0.0.1:58536] <-> InitialHandler has connected
+22:42:25 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+22:44:25 [INFO] [jr_helper] disconnected with: §cProxy lost connection to server.
+22:44:25 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+22:44:25 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+22:44:30 [INFO] Closing listener [id: 0x3394a4be, L:/[0:0:0:0:0:0:0:0%0]:25565]
+22:44:30 [INFO] Closing pending connections
+22:44:30 [INFO] Disconnecting 0 connections
+22:44:30 [INFO] Saving reconnect locations
+22:44:30 [INFO] Disabling plugins
+22:44:30 [SEVERE] Nov 06, 2023 10:44:30 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+
+22:44:30 [SEVERE] Nov 06, 2023 10:44:30 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown initiated...
+
+22:44:30 [SEVERE] Nov 06, 2023 10:44:30 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown completed.
+
+22:44:30 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+22:44:30 [INFO] Closing IO threads
+22:44:32 [INFO] Thank you and goodbye
+08:40:19 [INFO] Using mbed TLS based native cipher.
+08:40:19 [INFO] Using zlib based native compressor.
+08:40:19 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+08:40:19 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+08:40:19 [INFO] Epoll is working, utilising it!
+08:40:19 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+08:40:19 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+08:40:19 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+08:40:19 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+08:40:19 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+08:40:19 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+08:40:19 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+08:40:19 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+08:40:19 [INFO] Loaded plugin AdvancedBan version 2.3.0 by Leoko
+08:40:19 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+08:40:19 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+08:40:19 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+08:40:20 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+08:40:20 [WARNING] Forced host server pvp is not defined
+08:40:20 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+08:40:20 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+08:40:20 [INFO] §f[AdvancedBan] No offline permission support through LuckPerms
+08:40:20 [INFO] HikariPool-1 - Starting...
+08:40:20 [INFO] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+08:40:20 [INFO] HikariPool-1 - Start completed.
+08:40:21 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+08:40:21 [INFO] Enabled plugin AdvancedBan version 2.3.0 by Leoko
+08:40:21 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+08:40:21 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+08:40:21 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+08:40:21 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+08:40:21 [INFO] Listening on /0.0.0.0:25565
+08:42:16 [INFO] [/127.0.0.1:55926] <-> InitialHandler has pinged
+08:42:16 [INFO] [/127.0.0.1:55930] <-> InitialHandler has connected
+08:42:17 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+08:44:36 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+08:44:36 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+08:44:36 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+08:45:59 [INFO] [/127.0.0.1:41526] <-> InitialHandler has pinged
+08:46:02 [INFO] [SylusSquared,/127.0.0.1:41532] <-> InitialHandler has connected
+08:46:03 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+08:46:03 [INFO] [/127.0.0.1:41536] <-> InitialHandler has connected
+08:46:04 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+08:50:02 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+08:50:02 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+08:50:04 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+08:50:04 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+10:10:21 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+10:10:21 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+10:10:21 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+10:10:21 [INFO] [jr_helper] disconnected with: §fServer closed
+10:10:21 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+10:10:21 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+10:10:23 [INFO] Closing listener [id: 0xb78a0877, L:/[0:0:0:0:0:0:0:0%0]:25565]
+10:10:23 [INFO] Closing pending connections
+10:10:23 [INFO] Disconnecting 0 connections
+10:10:23 [INFO] Saving reconnect locations
+10:10:23 [INFO] Disabling plugins
+10:10:23 [SEVERE] Nov 07, 2023 10:10:23 AM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+
+10:10:23 [SEVERE] Nov 07, 2023 10:10:23 AM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown initiated...
+
+10:10:23 [SEVERE] Nov 07, 2023 10:10:23 AM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown completed.
+
+10:10:23 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+10:10:23 [INFO] Closing IO threads
+17:03:47 [INFO] Using mbed TLS based native cipher.
+17:03:47 [INFO] Using zlib based native compressor.
+17:03:47 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+17:03:47 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+17:03:47 [INFO] Epoll is working, utilising it!
+17:03:47 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+17:03:47 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+17:03:47 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+17:03:47 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+17:03:47 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+17:03:47 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+17:03:48 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:03:48 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:03:48 [INFO] Loaded plugin AdvancedBan version 2.3.0 by Leoko
+17:03:48 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:03:48 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:03:48 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:03:48 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:03:48 [WARNING] Forced host server pvp is not defined
+17:03:48 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:03:48 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:03:48 [INFO] §f[AdvancedBan] No offline permission support through LuckPerms
+17:03:48 [INFO] HikariPool-1 - Starting...
+17:03:48 [INFO] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+17:03:48 [INFO] HikariPool-1 - Start completed.
+17:03:49 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+17:03:49 [INFO] Enabled plugin AdvancedBan version 2.3.0 by Leoko
+17:03:49 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:03:49 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:03:49 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:03:49 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:03:49 [INFO] Listening on /0.0.0.0:25565
+17:04:05 [INFO] [/127.0.0.1:53938] <-> InitialHandler has connected
+17:04:06 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+17:19:17 [INFO] [/127.0.0.1:44184] <-> InitialHandler has pinged
+17:19:18 [INFO] [jr_helper,/127.0.0.1:44186] <-> InitialHandler has connected
+17:19:18 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+17:21:04 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+17:21:07 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+17:53:40 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+17:53:40 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+17:53:51 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+17:53:51 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+17:53:51 [INFO] [/127.0.0.1:34612] <-> InitialHandler has pinged
+17:53:53 [INFO] [SylusSquared,/127.0.0.1:45680] <-> InitialHandler has connected
+17:53:54 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+17:54:42 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+17:54:42 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+17:54:42 [INFO] [/127.0.0.1:60002] <-> InitialHandler has pinged
+17:54:43 [INFO] [SylusSquared,/127.0.0.1:43862] <-> InitialHandler has connected
+17:54:44 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+18:57:13 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+18:57:14 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+18:58:46 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+18:58:46 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+18:58:46 [INFO] [/127.0.0.1:36918] <-> InitialHandler has pinged
+18:58:53 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+18:58:53 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+18:58:53 [INFO] [/127.0.0.1:36926] <-> InitialHandler has pinged
+18:59:09 [INFO] §cCommand not found
+18:59:10 [INFO] Closing listener [id: 0xda7cf0a9, L:/[0:0:0:0:0:0:0:0%0]:25565]
+18:59:10 [INFO] Closing pending connections
+18:59:10 [INFO] Disconnecting 0 connections
+18:59:11 [INFO] Saving reconnect locations
+18:59:11 [INFO] Disabling plugins
+18:59:11 [SEVERE] Nov 07, 2023 6:59:11 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+
+18:59:11 [SEVERE] Nov 07, 2023 6:59:11 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown initiated...
+
+18:59:11 [SEVERE] Nov 07, 2023 6:59:11 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown completed.
+
+18:59:11 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+18:59:11 [INFO] Closing IO threads
+12:11:42 [INFO] Using mbed TLS based native cipher.
+12:11:42 [INFO] Using zlib based native compressor.
+12:11:42 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+12:11:43 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+12:11:43 [INFO] Epoll is working, utilising it!
+12:11:43 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+12:11:43 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+12:11:43 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+12:11:43 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+12:11:43 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+12:11:43 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+12:11:43 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:11:43 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:11:43 [INFO] Loaded plugin AdvancedBan version 2.3.0 by Leoko
+12:11:43 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:11:43 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:11:43 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:11:43 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:11:43 [WARNING] Forced host server pvp is not defined
+12:11:43 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:11:43 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:11:43 [INFO] §f[AdvancedBan] No offline permission support through LuckPerms
+12:11:43 [INFO] HikariPool-1 - Starting...
+12:11:43 [INFO] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+12:11:43 [INFO] HikariPool-1 - Start completed.
+12:11:44 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+12:11:44 [INFO] Enabled plugin AdvancedBan version 2.3.0 by Leoko
+12:11:44 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:11:44 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:11:44 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:11:44 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:11:44 [INFO] Listening on /0.0.0.0:25565
+12:14:45 [INFO] Closing listener [id: 0xce1a18e2, L:/[0:0:0:0:0:0:0:0%0]:25565]
+12:14:45 [INFO] Closing pending connections
+12:14:45 [INFO] Disconnecting 0 connections
+12:14:46 [INFO] Saving reconnect locations
+12:14:46 [INFO] Disabling plugins
+12:14:46 [SEVERE] Nov 11, 2023 12:14:46 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+
+12:14:46 [SEVERE] Nov 11, 2023 12:14:46 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown initiated...
+
+12:14:46 [SEVERE] Nov 11, 2023 12:14:46 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown completed.
+
+12:14:46 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+12:14:46 [INFO] Closing IO threads
+12:19:37 [INFO] Using mbed TLS based native cipher.
+12:19:37 [INFO] Using zlib based native compressor.
+12:19:37 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+12:19:37 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+12:19:37 [INFO] Epoll is working, utilising it!
+12:19:37 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+12:19:37 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+12:19:37 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+12:19:37 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+12:19:37 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+12:19:37 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+12:19:37 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:19:37 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:19:37 [INFO] Loaded plugin AdvancedBan version 2.3.0 by Leoko
+12:19:37 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:19:37 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:19:37 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:19:37 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:19:37 [WARNING] Forced host server pvp is not defined
+12:19:37 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:19:37 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:19:37 [INFO] §f[AdvancedBan] No offline permission support through LuckPerms
+12:19:37 [INFO] HikariPool-1 - Starting...
+12:19:37 [INFO] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+12:19:37 [INFO] HikariPool-1 - Start completed.
+12:19:38 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+12:19:38 [INFO] Enabled plugin AdvancedBan version 2.3.0 by Leoko
+12:19:38 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:19:38 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:19:38 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:19:38 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:19:38 [INFO] Listening on /0.0.0.0:25565
+12:23:23 [INFO] [/127.0.0.1:48480] <-> InitialHandler has pinged
+12:23:24 [INFO] [/127.0.0.1:51608] <-> InitialHandler has connected
+12:23:24 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+12:25:16 [INFO] Closing listener [id: 0xa497df99, L:/[0:0:0:0:0:0:0:0%0]:25565]
+12:25:16 [INFO] Closing pending connections
+12:25:16 [INFO] Disconnecting 1 connections
+12:25:16 [INFO] [SylusSquared] disconnected with: §cThe proxy server is restarting
+12:25:16 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+12:25:16 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+12:25:16 [INFO] Saving reconnect locations
+12:25:16 [INFO] Disabling plugins
+12:25:16 [SEVERE] Nov 11, 2023 12:25:16 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+
+12:25:16 [SEVERE] Nov 11, 2023 12:25:16 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown initiated...
+
+12:25:16 [SEVERE] Nov 11, 2023 12:25:16 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown completed.
+
+12:25:16 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+12:25:16 [INFO] Closing IO threads
+12:25:21 [INFO] Using mbed TLS based native cipher.
+12:25:21 [INFO] Using zlib based native compressor.
+12:25:21 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+12:25:21 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+12:25:21 [INFO] Epoll is working, utilising it!
+12:25:21 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+12:25:21 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+12:25:21 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+12:25:21 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+12:25:21 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+12:25:21 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+12:25:21 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:25:29 [INFO] Loaded plugin LuckPerms version 5.4.108 by Luck
+12:25:29 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:25:29 [INFO] Loaded plugin AdvancedBan version 2.3.0 by Leoko
+12:25:29 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:25:29 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:25:29 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:25:29 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:25:29 [WARNING] Forced host server pvp is not defined
+12:25:29 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:25:30 [INFO] §b       §3 __    
+12:25:30 [INFO] §b  |    §3|__)   §2LuckPerms§r §bv5.4.108
+12:25:30 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+12:25:30 [INFO] 
+12:25:30 [INFO] [LuckPerms] Loading configuration...
+12:25:34 [INFO] [LuckPerms] Loading storage provider... [H2]
+12:25:34 [INFO] [LuckPerms] Loading internal permission managers...
+12:25:34 [INFO] [LuckPerms] Performing initial data load...
+12:25:34 [INFO] [LuckPerms] Successfully enabled. (took 4678ms)
+12:25:34 [INFO] Enabled plugin LuckPerms version 5.4.108 by Luck
+12:25:34 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:25:34 [INFO] §f[AdvancedBan] Offline permission support through LuckPerms active
+12:25:34 [INFO] HikariPool-1 - Starting...
+12:25:34 [INFO] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+12:25:34 [INFO] HikariPool-1 - Start completed.
+12:25:35 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+12:25:35 [INFO] Enabled plugin AdvancedBan version 2.3.0 by Leoko
+12:25:35 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:25:35 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:25:35 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:25:35 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+12:25:35 [INFO] Listening on /0.0.0.0:25565
+12:26:23 [INFO] [/127.0.0.1:47086] <-> InitialHandler has connected
+12:26:24 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+12:26:36 [INFO] §7[§b§lL§3§lP§7]§r §aSet §bluckperms.*§a to §btrue§a for §bsylussquared§a in context §eglobal§a.
+12:43:50 [WARNING] [SylusSquared] <-> DownstreamBridge <-> [lobby] - NativeIoException: recvAddress(..) failed: Connection reset by peer
+12:43:50 [INFO] [SylusSquared] disconnected with: §fNativeIoException : recvAddress(..) failed: Connection reset by peer
+12:43:50 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+12:43:50 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+12:44:09 [INFO] [SylusSquared,/127.0.0.1:60358] <-> InitialHandler has connected
+12:44:12 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+13:04:55 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+13:04:55 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+13:04:55 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+13:05:14 [INFO] [SylusSquared,/127.0.0.1:50810] <-> InitialHandler has connected
+13:05:15 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+13:42:58 [INFO] [SylusSquared] disconnected with: §fServer closed
+13:42:58 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+13:42:58 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+13:43:40 [INFO] [SylusSquared,/127.0.0.1:39550] <-> InitialHandler has connected
+13:43:41 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+13:44:54 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+13:44:54 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+13:44:54 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+13:45:14 [INFO] [/127.0.0.1:53932] <-> InitialHandler has connected
+13:45:15 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+13:45:45 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+13:45:47 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+14:02:27 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+14:02:27 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+14:02:27 [INFO] [/127.0.0.1:56048] <-> InitialHandler has pinged
+14:20:56 [INFO] [/127.0.0.1:38300] <-> InitialHandler has pinged
+14:58:06 [INFO] [/127.0.0.1:58256] <-> InitialHandler has pinged
+15:08:23 [INFO] §cNot enough arguments, usage: /send <server|player|all|current> <target>
+15:08:24 [INFO] Closing listener [id: 0x56d4adf8, L:/[0:0:0:0:0:0:0:0%0]:25565]
+15:08:24 [INFO] Closing pending connections
+15:08:24 [INFO] Disconnecting 0 connections
+15:08:25 [INFO] Saving reconnect locations
+15:08:25 [INFO] Disabling plugins
+15:08:25 [SEVERE] Nov 11, 2023 3:08:25 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+
+15:08:25 [SEVERE] Nov 11, 2023 3:08:25 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown initiated...
+
+15:08:25 [SEVERE] Nov 11, 2023 3:08:25 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown completed.
+
+15:08:25 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+15:08:25 [INFO] [LuckPerms] Starting shutdown process...
+15:08:25 [INFO] [LuckPerms] Closing storage...
+15:08:25 [INFO] [LuckPerms] Goodbye!
+15:08:25 [INFO] Closing IO threads
+13:35:18 [INFO] Using mbed TLS based native cipher.
+13:35:18 [INFO] Using zlib based native compressor.
+13:35:18 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+13:35:18 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+13:35:18 [INFO] Epoll is working, utilising it!
+13:35:18 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+13:35:18 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+13:35:18 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+13:35:18 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+13:35:18 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+13:35:18 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+13:35:18 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+13:35:18 [INFO] Loaded plugin LuckPerms version 5.4.108 by Luck
+13:35:18 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+13:35:18 [INFO] Loaded plugin AdvancedBan version 2.3.0 by Leoko
+13:35:18 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+13:35:18 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+13:35:18 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+13:35:18 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+13:35:18 [WARNING] Forced host server pvp is not defined
+13:35:18 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+13:35:18 [INFO] §b       §3 __    
+13:35:18 [INFO] §b  |    §3|__)   §2LuckPerms§r §bv5.4.108
+13:35:18 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+13:35:18 [INFO] 
+13:35:18 [INFO] [LuckPerms] Loading configuration...
+13:35:18 [INFO] [LuckPerms] Loading storage provider... [H2]
+13:35:19 [INFO] [LuckPerms] Loading internal permission managers...
+13:35:19 [INFO] [LuckPerms] Performing initial data load...
+13:35:19 [INFO] [LuckPerms] Successfully enabled. (took 857ms)
+13:35:19 [INFO] Enabled plugin LuckPerms version 5.4.108 by Luck
+13:35:19 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+13:35:19 [INFO] §f[AdvancedBan] Offline permission support through LuckPerms active
+13:35:19 [INFO] HikariPool-1 - Starting...
+13:35:19 [INFO] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+13:35:19 [INFO] HikariPool-1 - Start completed.
+13:35:20 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+13:35:20 [INFO] Enabled plugin AdvancedBan version 2.3.0 by Leoko
+13:35:20 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+13:35:20 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+13:35:20 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+13:35:20 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+13:35:20 [INFO] Listening on /0.0.0.0:25565
+13:35:44 [INFO] [/127.0.0.1:54120] <-> InitialHandler has pinged
+13:35:44 [INFO] [SylusSquared,/127.0.0.1:54136] <-> InitialHandler has connected
+13:35:45 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+15:11:08 [INFO] [SylusSquared] disconnected with: §fServer closed
+15:11:08 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+15:11:08 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+15:11:22 [INFO] [/127.0.0.1:47224] <-> InitialHandler has connected
+15:11:24 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+15:11:42 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+15:11:44 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+15:13:24 [INFO] [SylusSquared] disconnected with: §fServer closed
+15:13:24 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+15:13:24 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+15:13:51 [INFO] [/127.0.0.1:56828] <-> InitialHandler has connected
+15:13:53 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+15:16:08 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+15:16:08 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+15:16:08 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+15:17:21 [INFO] [SylusSquared,/127.0.0.1:45956] <-> InitialHandler has connected
+15:17:23 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+15:17:31 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+15:17:37 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+15:35:39 [INFO] [/127.0.0.1:40844] <-> InitialHandler has pinged
+15:35:39 [INFO] [jr_helper,/127.0.0.1:40852] <-> InitialHandler has connected
+15:35:41 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+15:40:31 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+15:40:31 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+15:40:31 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+15:40:31 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+15:43:19 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+15:43:19 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+15:43:22 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+15:43:22 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+15:54:26 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+15:54:26 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+15:54:26 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+15:54:26 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+16:33:43 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+16:33:43 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+16:33:45 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+16:33:45 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+16:35:43 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+16:35:43 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+16:35:43 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+16:35:43 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+16:36:30 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+16:36:30 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+16:36:32 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+16:36:32 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+16:48:26 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+16:48:26 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+16:48:26 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+16:48:26 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+16:48:27 [SEVERE] [SylusSquared] <-> DownstreamBridge <-> [lobby] - encountered exception
+java.lang.IllegalArgumentException: Team 021228020355 already exists in this scoreboard
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at net.md_5.bungee.api.score.Scoreboard.addTeam(Scoreboard.java:73)
+	at net.md_5.bungee.connection.DownstreamBridge.handle(DownstreamBridge.java:247)
+	at net.md_5.bungee.protocol.packet.Team.handle(Team.java:124)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:124)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:333)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:454)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:290)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+16:48:27 [INFO] [SylusSquared] disconnected with: §fIllegalArgumentException : Team 021228020355 already exists in this scoreboard @ com.google.common.base.Preconditions:218
+16:48:27 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+16:48:27 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+16:48:32 [INFO] [SylusSquared,/127.0.0.1:51810] <-> InitialHandler has connected
+16:48:34 [SEVERE] Error authenticating SylusSquared with minecraft.net
+io.netty.channel.AbstractChannel$AnnotatedNoRouteToHostException: null: sessionserver.mojang.com/[2620:1ec:bdf:0:0:0:0:66]:443
+Caused by: java.net.NoRouteToHostException
+	at io.netty.channel.unix.Errors.newConnectException0(Errors.java:158)
+	at io.netty.channel.unix.Errors.handleConnectErrno(Errors.java:131)
+	at io.netty.channel.unix.Socket.connect(Socket.java:351)
+	at io.netty.channel.epoll.AbstractEpollChannel.doConnect0(AbstractEpollChannel.java:773)
+	at io.netty.channel.epoll.EpollSocketChannel.doConnect0(EpollSocketChannel.java:144)
+	at io.netty.channel.epoll.AbstractEpollChannel.doConnect(AbstractEpollChannel.java:758)
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.connect(AbstractEpollChannel.java:600)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.connect(DefaultChannelPipeline.java:1342)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeConnect(AbstractChannelHandlerContext.java:653)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:632)
+	at io.netty.handler.ssl.SslHandler.connect(SslHandler.java:736)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeConnect(AbstractChannelHandlerContext.java:657)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:632)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.connect(CombinedChannelDuplexHandler.java:495)
+	at io.netty.channel.ChannelOutboundHandlerAdapter.connect(ChannelOutboundHandlerAdapter.java:51)
+	at io.netty.channel.CombinedChannelDuplexHandler.connect(CombinedChannelDuplexHandler.java:296)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeConnect(AbstractChannelHandlerContext.java:655)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:632)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:616)
+	at io.netty.channel.DefaultChannelPipeline.connect(DefaultChannelPipeline.java:978)
+	at io.netty.channel.AbstractChannel.connect(AbstractChannel.java:265)
+	at io.netty.bootstrap.Bootstrap$3.run(Bootstrap.java:264)
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:413)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+16:48:42 [INFO] [SylusSquared,/127.0.0.1:38058] <-> InitialHandler has connected
+16:48:43 [SEVERE] Error authenticating SylusSquared with minecraft.net
+io.netty.channel.AbstractChannel$AnnotatedNoRouteToHostException: null: sessionserver.mojang.com/[2620:1ec:bdf:0:0:0:0:66]:443
+Caused by: java.net.NoRouteToHostException
+	at io.netty.channel.unix.Errors.newConnectException0(Errors.java:158)
+	at io.netty.channel.unix.Errors.handleConnectErrno(Errors.java:131)
+	at io.netty.channel.unix.Socket.connect(Socket.java:351)
+	at io.netty.channel.epoll.AbstractEpollChannel.doConnect0(AbstractEpollChannel.java:773)
+	at io.netty.channel.epoll.EpollSocketChannel.doConnect0(EpollSocketChannel.java:144)
+	at io.netty.channel.epoll.AbstractEpollChannel.doConnect(AbstractEpollChannel.java:758)
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.connect(AbstractEpollChannel.java:600)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.connect(DefaultChannelPipeline.java:1342)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeConnect(AbstractChannelHandlerContext.java:653)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:632)
+	at io.netty.handler.ssl.SslHandler.connect(SslHandler.java:736)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeConnect(AbstractChannelHandlerContext.java:657)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:632)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.connect(CombinedChannelDuplexHandler.java:495)
+	at io.netty.channel.ChannelOutboundHandlerAdapter.connect(ChannelOutboundHandlerAdapter.java:51)
+	at io.netty.channel.CombinedChannelDuplexHandler.connect(CombinedChannelDuplexHandler.java:296)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeConnect(AbstractChannelHandlerContext.java:655)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:632)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:616)
+	at io.netty.channel.DefaultChannelPipeline.connect(DefaultChannelPipeline.java:978)
+	at io.netty.channel.AbstractChannel.connect(AbstractChannel.java:265)
+	at io.netty.bootstrap.Bootstrap$3.run(Bootstrap.java:264)
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:413)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+16:48:49 [INFO] [jr_helper] disconnected with: §fServer closed
+16:48:49 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+16:48:49 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+16:48:57 [INFO] Closing listener [id: 0x0fdb247f, L:/[0:0:0:0:0:0:0:0%0]:25565]
+16:48:57 [INFO] Closing pending connections
+16:48:57 [INFO] Disconnecting 0 connections
+16:48:57 [INFO] Saving reconnect locations
+16:48:57 [INFO] Disabling plugins
+16:48:57 [SEVERE] Nov 12, 2023 4:48:57 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+
+16:48:57 [SEVERE] Nov 12, 2023 4:48:57 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown initiated...
+
+16:48:57 [SEVERE] Nov 12, 2023 4:48:57 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown completed.
+
+16:48:57 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+16:48:57 [INFO] [LuckPerms] Starting shutdown process...
+16:48:57 [INFO] [LuckPerms] Closing storage...
+16:48:57 [INFO] [LuckPerms] Goodbye!
+16:48:57 [INFO] Closing IO threads
+16:48:59 [INFO] Thank you and goodbye
+17:20:10 [INFO] Using mbed TLS based native cipher.
+17:20:10 [INFO] Using zlib based native compressor.
+17:20:10 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+17:20:10 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+17:20:10 [INFO] Epoll is working, utilising it!
+17:20:10 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+17:20:10 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+17:20:10 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+17:20:10 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+17:20:10 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+17:20:10 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+17:20:10 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:20:10 [INFO] Loaded plugin LuckPerms version 5.4.108 by Luck
+17:20:10 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:20:10 [INFO] Loaded plugin AdvancedBan version 2.3.0 by Leoko
+17:20:10 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:20:10 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:20:10 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:20:10 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:20:10 [WARNING] Forced host server pvp is not defined
+17:20:10 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:20:11 [INFO] §b       §3 __    
+17:20:11 [INFO] §b  |    §3|__)   §2LuckPerms§r §bv5.4.108
+17:20:11 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+17:20:11 [INFO] 
+17:20:11 [INFO] [LuckPerms] Loading configuration...
+17:20:11 [INFO] [LuckPerms] Loading storage provider... [H2]
+17:20:11 [INFO] [LuckPerms] Loading internal permission managers...
+17:20:11 [INFO] [LuckPerms] Performing initial data load...
+17:20:11 [INFO] [LuckPerms] Successfully enabled. (took 939ms)
+17:20:11 [INFO] Enabled plugin LuckPerms version 5.4.108 by Luck
+17:20:11 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:20:11 [INFO] §f[AdvancedBan] Offline permission support through LuckPerms active
+17:20:11 [INFO] HikariPool-1 - Starting...
+17:20:12 [INFO] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+17:20:12 [INFO] HikariPool-1 - Start completed.
+17:20:12 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+17:20:12 [INFO] Enabled plugin AdvancedBan version 2.3.0 by Leoko
+17:20:12 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:20:12 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:20:12 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:20:12 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+17:20:12 [INFO] Listening on /0.0.0.0:25565
+17:20:39 [INFO] [/127.0.0.1:38576] <-> InitialHandler has connected
+17:20:40 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+17:21:22 [INFO] [jr_helper,/127.0.0.1:59882] <-> InitialHandler has connected
+17:21:23 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+17:21:36 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+17:21:36 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+17:21:39 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+17:21:39 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+17:34:12 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+17:34:12 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+17:34:12 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+17:34:12 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+17:34:23 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+17:34:23 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+17:37:44 [INFO] [SylusSquared] disconnected with: §fServer closed
+17:37:44 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+17:37:44 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+17:38:15 [INFO] [SylusSquared,/127.0.0.1:35704] <-> InitialHandler has connected
+17:38:16 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+17:38:29 [INFO] [jr_helper] <-> ServerConnector [game] has connected
+17:38:29 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+17:48:59 [INFO] [jr_helper] <-> ServerConnector [lobby] has connected
+17:48:59 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+17:48:59 [INFO] [jr_helper] <-> DownstreamBridge <-> [game] has disconnected
+17:48:59 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+17:49:20 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+17:49:20 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+17:49:20 [INFO] [jr_helper] disconnected with: §cProxy lost connection to server.
+17:49:20 [INFO] [jr_helper] <-> DownstreamBridge <-> [lobby] has disconnected
+17:49:20 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+17:49:20 [INFO] [jr_helper] -> UpstreamBridge has disconnected
+17:49:27 [INFO] Closing listener [id: 0xe9bec015, L:/[0:0:0:0:0:0:0:0%0]:25565]
+17:49:27 [INFO] Closing pending connections
+17:49:27 [INFO] Disconnecting 0 connections
+17:49:28 [INFO] Saving reconnect locations
+17:49:28 [INFO] Disabling plugins
+17:49:28 [SEVERE] Nov 12, 2023 5:49:28 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+
+17:49:28 [SEVERE] Nov 12, 2023 5:49:28 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown initiated...
+
+17:49:28 [SEVERE] Nov 12, 2023 5:49:28 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown completed.
+
+17:49:28 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+17:49:28 [INFO] [LuckPerms] Starting shutdown process...
+17:49:28 [INFO] [LuckPerms] Closing storage...
+17:49:28 [INFO] [LuckPerms] Goodbye!
+17:49:28 [INFO] Closing IO threads
+17:49:30 [INFO] Thank you and goodbye
+18:03:33 [INFO] Using mbed TLS based native cipher.
+18:03:33 [INFO] Using zlib based native compressor.
+18:03:33 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+18:03:33 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+18:03:33 [INFO] Epoll is working, utilising it!
+18:03:33 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+18:03:33 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+18:03:33 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+18:03:33 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+18:03:33 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+18:03:33 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+18:03:33 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:03:33 [INFO] Loaded plugin LuckPerms version 5.4.108 by Luck
+18:03:33 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:03:33 [INFO] Loaded plugin AdvancedBan version 2.3.0 by Leoko
+18:03:33 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:03:33 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:03:33 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:03:33 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:03:33 [WARNING] Forced host server pvp is not defined
+18:03:33 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:03:34 [INFO] §b       §3 __    
+18:03:34 [INFO] §b  |    §3|__)   §2LuckPerms§r §bv5.4.108
+18:03:34 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+18:03:34 [INFO] 
+18:03:34 [INFO] [LuckPerms] Loading configuration...
+18:03:34 [INFO] [LuckPerms] Loading storage provider... [H2]
+18:03:34 [INFO] [LuckPerms] Loading internal permission managers...
+18:03:34 [INFO] [LuckPerms] Performing initial data load...
+18:03:34 [INFO] [LuckPerms] Successfully enabled. (took 983ms)
+18:03:34 [INFO] Enabled plugin LuckPerms version 5.4.108 by Luck
+18:03:34 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:03:34 [INFO] §f[AdvancedBan] Offline permission support through LuckPerms active
+18:03:34 [INFO] HikariPool-1 - Starting...
+18:03:35 [INFO] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+18:03:35 [INFO] HikariPool-1 - Start completed.
+18:03:35 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+18:03:35 [INFO] Enabled plugin AdvancedBan version 2.3.0 by Leoko
+18:03:35 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:03:35 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:03:35 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:03:35 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:03:35 [INFO] Listening on /0.0.0.0:25565
+18:05:36 [INFO] [/127.0.0.1:46618] <-> InitialHandler has pinged
+18:05:37 [INFO] [/127.0.0.1:46620] <-> InitialHandler has connected
+18:05:38 [SEVERE] Error authenticating SylusSquared with minecraft.net
+io.netty.channel.AbstractChannel$AnnotatedNoRouteToHostException: null: sessionserver.mojang.com/[2620:1ec:bdf:0:0:0:0:53]:443
+Caused by: java.net.NoRouteToHostException
+	at io.netty.channel.unix.Errors.newConnectException0(Errors.java:158)
+	at io.netty.channel.unix.Errors.handleConnectErrno(Errors.java:131)
+	at io.netty.channel.unix.Socket.connect(Socket.java:351)
+	at io.netty.channel.epoll.AbstractEpollChannel.doConnect0(AbstractEpollChannel.java:773)
+	at io.netty.channel.epoll.EpollSocketChannel.doConnect0(EpollSocketChannel.java:144)
+	at io.netty.channel.epoll.AbstractEpollChannel.doConnect(AbstractEpollChannel.java:758)
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.connect(AbstractEpollChannel.java:600)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.connect(DefaultChannelPipeline.java:1342)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeConnect(AbstractChannelHandlerContext.java:653)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:632)
+	at io.netty.handler.ssl.SslHandler.connect(SslHandler.java:736)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeConnect(AbstractChannelHandlerContext.java:657)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:632)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.connect(CombinedChannelDuplexHandler.java:495)
+	at io.netty.channel.ChannelOutboundHandlerAdapter.connect(ChannelOutboundHandlerAdapter.java:51)
+	at io.netty.channel.CombinedChannelDuplexHandler.connect(CombinedChannelDuplexHandler.java:296)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeConnect(AbstractChannelHandlerContext.java:655)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:632)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:616)
+	at io.netty.channel.DefaultChannelPipeline.connect(DefaultChannelPipeline.java:978)
+	at io.netty.channel.AbstractChannel.connect(AbstractChannel.java:265)
+	at io.netty.bootstrap.Bootstrap$3.run(Bootstrap.java:264)
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:413)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+18:05:44 [INFO] [/127.0.0.1:43338] <-> InitialHandler has connected
+18:05:44 [SEVERE] Error authenticating SylusSquared with minecraft.net
+io.netty.channel.AbstractChannel$AnnotatedNoRouteToHostException: null: sessionserver.mojang.com/[2620:1ec:bdf:0:0:0:0:53]:443
+Caused by: java.net.NoRouteToHostException
+	at io.netty.channel.unix.Errors.newConnectException0(Errors.java:158)
+	at io.netty.channel.unix.Errors.handleConnectErrno(Errors.java:131)
+	at io.netty.channel.unix.Socket.connect(Socket.java:351)
+	at io.netty.channel.epoll.AbstractEpollChannel.doConnect0(AbstractEpollChannel.java:773)
+	at io.netty.channel.epoll.EpollSocketChannel.doConnect0(EpollSocketChannel.java:144)
+	at io.netty.channel.epoll.AbstractEpollChannel.doConnect(AbstractEpollChannel.java:758)
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.connect(AbstractEpollChannel.java:600)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.connect(DefaultChannelPipeline.java:1342)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeConnect(AbstractChannelHandlerContext.java:653)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:632)
+	at io.netty.handler.ssl.SslHandler.connect(SslHandler.java:736)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeConnect(AbstractChannelHandlerContext.java:657)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:632)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.connect(CombinedChannelDuplexHandler.java:495)
+	at io.netty.channel.ChannelOutboundHandlerAdapter.connect(ChannelOutboundHandlerAdapter.java:51)
+	at io.netty.channel.CombinedChannelDuplexHandler.connect(CombinedChannelDuplexHandler.java:296)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeConnect(AbstractChannelHandlerContext.java:655)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:632)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:616)
+	at io.netty.channel.DefaultChannelPipeline.connect(DefaultChannelPipeline.java:978)
+	at io.netty.channel.AbstractChannel.connect(AbstractChannel.java:265)
+	at io.netty.bootstrap.Bootstrap$3.run(Bootstrap.java:264)
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:413)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+18:08:41 [INFO] [/127.0.0.1:46258] <-> InitialHandler has pinged
+18:08:42 [INFO] [/127.0.0.1:46262] <-> InitialHandler has connected
+18:08:42 [SEVERE] Error authenticating SylusSquared with minecraft.net
+io.netty.channel.AbstractChannel$AnnotatedNoRouteToHostException: null: sessionserver.mojang.com/[2620:1ec:bdf:0:0:0:0:66]:443
+Caused by: java.net.NoRouteToHostException
+	at io.netty.channel.unix.Errors.newConnectException0(Errors.java:158)
+	at io.netty.channel.unix.Errors.handleConnectErrno(Errors.java:131)
+	at io.netty.channel.unix.Socket.connect(Socket.java:351)
+	at io.netty.channel.epoll.AbstractEpollChannel.doConnect0(AbstractEpollChannel.java:773)
+	at io.netty.channel.epoll.EpollSocketChannel.doConnect0(EpollSocketChannel.java:144)
+	at io.netty.channel.epoll.AbstractEpollChannel.doConnect(AbstractEpollChannel.java:758)
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.connect(AbstractEpollChannel.java:600)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.connect(DefaultChannelPipeline.java:1342)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeConnect(AbstractChannelHandlerContext.java:653)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:632)
+	at io.netty.handler.ssl.SslHandler.connect(SslHandler.java:736)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeConnect(AbstractChannelHandlerContext.java:657)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:632)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.connect(CombinedChannelDuplexHandler.java:495)
+	at io.netty.channel.ChannelOutboundHandlerAdapter.connect(ChannelOutboundHandlerAdapter.java:51)
+	at io.netty.channel.CombinedChannelDuplexHandler.connect(CombinedChannelDuplexHandler.java:296)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeConnect(AbstractChannelHandlerContext.java:655)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:632)
+	at io.netty.channel.AbstractChannelHandlerContext.connect(AbstractChannelHandlerContext.java:616)
+	at io.netty.channel.DefaultChannelPipeline.connect(DefaultChannelPipeline.java:978)
+	at io.netty.channel.AbstractChannel.connect(AbstractChannel.java:265)
+	at io.netty.bootstrap.Bootstrap$3.run(Bootstrap.java:264)
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:413)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+18:08:54 [INFO] Closing listener [id: 0xc2c7e56a, L:/[0:0:0:0:0:0:0:0%0]:25565]
+18:08:54 [INFO] Closing pending connections
+18:08:54 [INFO] Disconnecting 0 connections
+18:08:54 [INFO] Saving reconnect locations
+18:08:54 [INFO] Disabling plugins
+18:08:54 [SEVERE] Nov 12, 2023 6:08:54 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+
+18:08:54 [SEVERE] Nov 12, 2023 6:08:54 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown initiated...
+
+18:08:54 [SEVERE] Nov 12, 2023 6:08:54 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown completed.
+
+18:08:54 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+18:08:54 [INFO] [LuckPerms] Starting shutdown process...
+18:08:54 [INFO] [LuckPerms] Closing storage...
+18:08:54 [INFO] [LuckPerms] Goodbye!
+18:08:54 [INFO] Closing IO threads
+18:08:58 [INFO] Using mbed TLS based native cipher.
+18:08:58 [INFO] Using zlib based native compressor.
+18:08:58 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+18:08:58 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+18:08:58 [INFO] Epoll is working, utilising it!
+18:08:58 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+18:08:58 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+18:08:58 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+18:08:58 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+18:08:58 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+18:08:58 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+18:08:58 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:08:59 [INFO] Loaded plugin LuckPerms version 5.4.108 by Luck
+18:08:59 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:08:59 [INFO] Loaded plugin AdvancedBan version 2.3.0 by Leoko
+18:08:59 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:08:59 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:08:59 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:08:59 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:08:59 [WARNING] Forced host server pvp is not defined
+18:08:59 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:08:59 [INFO] §b       §3 __    
+18:08:59 [INFO] §b  |    §3|__)   §2LuckPerms§r §bv5.4.108
+18:08:59 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+18:08:59 [INFO] 
+18:08:59 [INFO] [LuckPerms] Loading configuration...
+18:08:59 [INFO] [LuckPerms] Loading storage provider... [H2]
+18:08:59 [INFO] [LuckPerms] Loading internal permission managers...
+18:08:59 [INFO] [LuckPerms] Performing initial data load...
+18:09:00 [INFO] [LuckPerms] Successfully enabled. (took 943ms)
+18:09:00 [INFO] Enabled plugin LuckPerms version 5.4.108 by Luck
+18:09:00 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:09:00 [INFO] §f[AdvancedBan] Offline permission support through LuckPerms active
+18:09:00 [INFO] HikariPool-1 - Starting...
+18:09:00 [INFO] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+18:09:00 [INFO] HikariPool-1 - Start completed.
+18:09:00 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+18:09:00 [INFO] Enabled plugin AdvancedBan version 2.3.0 by Leoko
+18:09:00 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:09:00 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:09:00 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:09:00 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+18:09:00 [INFO] Listening on /0.0.0.0:25565
+18:09:03 [INFO] [/127.0.0.1:47696] <-> InitialHandler has connected
+18:09:04 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+18:09:19 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+18:09:22 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+18:11:08 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+18:11:08 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+18:11:08 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+18:12:17 [INFO] [SylusSquared,/127.0.0.1:50506] <-> InitialHandler has connected
+18:12:18 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+18:19:41 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+18:19:41 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+18:19:41 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+18:20:08 [INFO] [SylusSquared,/127.0.0.1:35536] <-> InitialHandler has connected
+18:20:09 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+18:39:29 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+18:39:29 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+18:40:38 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+18:40:40 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+18:50:56 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+18:50:56 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+18:50:56 [INFO] [SylusSquared] -> UpstreamBridge has disconnected

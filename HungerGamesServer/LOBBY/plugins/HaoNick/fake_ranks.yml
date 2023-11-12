@@ -1,0 +1,76 @@
+# HaoNick configuration by Haoshoku
+# Support: https://haoshoku.xyz/go/discord
+# If you want to use the integrated prefix/suffix system of HaoNick, do not forget to activate it here.
+
+# Nicked-Ranks: A rank that is being used if you nick yourself
+
+# Set it to true if you want to use the fake_rank {prefix+suffix} from HaoNick!
+fake_ranks_settings:
+  chat: true
+  tab: true
+
+# Explantation of fake_rank system of HaoNick:
+# You can just copy a rank block and paste it again with a different name.
+# If you want to have a sorted scoreboard, be sure to make an order in the "name" of tab entry of each rank.
+# Example: 003mvp is above 004mvp
+#
+# Important: You need to set a COLOR if you are using 1.13 or HIGHER.
+# Take a look here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/ChatColor.html
+# You see there colors like RED, GRAY. Write these colors in the uppercase in the color entry if you want to use it.
+# Only one color can be used!
+
+# Each fake_rank has its own permission. Just give the specific fake_rank the permission!
+# If you have a permission plugins that allows you to give '*' permission, just set the permissions of OTHER
+# ranks to false (- permission).
+
+
+fake_ranks:
+  mcp:
+    display_name: '&4MCP'
+    permission: 'haonick.fakerank.mvp'
+    chat:
+      message: '&4&l[MCP] &c%name%&f: %message%'
+      chatcolor: true
+    tab:
+      weight: "07"
+      prefix: '&4&l[MCP] &c'
+      suffix: ''
+      color: 'RED'
+      player_list_name: 'none'
+  admin:
+    display_name: '&c&lADMIN'
+    permission: 'haonick.fakerank.admin'
+    chat:
+      message: '&f[&c&lADMIN&r&f] &c%name%&f: %message%'
+      chatcolor: true
+    tab:
+      weight: "08"
+      prefix: '&f[&c&lADMIN&r&f] &c'
+      suffix: ''
+      color: 'RED'
+      player_list_name: 'none'
+  normal:
+    display_name: '&bNormal'
+    permission: 'haonick.fakerank.normal'
+    default: true
+    chat:
+      message: '&b%name%&f: %message%'
+      chatcolor: false
+    tab:
+      weight: "99"
+      prefix: '&f&l[&bPLAYER&f] &f'
+      suffix: ''
+      color: 'AQUA'
+      player_list_name: 'none'
+  player:
+    display_name: '&f[&b&lPLAYER&r&f] &f'
+    permission: 'haonick.fakerank.player'
+    chat:
+      message: '&f[&b&lPLAYER&r&f] &7%name%&f: %message%'
+      chatcolor: true
+    tab:
+      weight: "08"
+      prefix: '&f[&b&lPLAYER&r&f] &f'
+      suffix: ''
+      color: 'GRAY'
+      player_list_name: 'none'
