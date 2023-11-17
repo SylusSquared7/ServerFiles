@@ -1,66 +1,61 @@
-[18:03:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:03:41] [Worker-Main-1/INFO]: Loaded 7 recipes
-[18:03:43] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[18:03:43] [Server thread/INFO]: Loading properties
-[18:03:43] [Server thread/INFO]: This server is running Paper version git-Paper-388 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: fc9ee65 on ver/1.18.2)
-[18:03:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:03:43] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:03:43] [Server thread/INFO]: Default game type: ADVENTURE
-[18:03:43] [Server thread/INFO]: Generating keypair
-[18:03:43] [Server thread/INFO]: Starting Minecraft server on *:25566
-[18:03:43] [Server thread/INFO]: Using epoll channel type
-[18:03:43] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:03:43] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[18:03:44] [Server thread/INFO]: [NickAPI] Loading NickAPI v6.5.1
-[18:03:44] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.17.1-SNAPSHOT-Updated-b169
-[18:03:44] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
-[18:03:44] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
-[18:03:44] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.18.2
-[18:03:44] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.108
-[18:03:44] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.3.0
-[18:03:44] [Server thread/INFO]: [HungerGamesCore] Loading HungerGamesCore v1.0-SNAPSHOT
-[18:03:44] [Server thread/INFO]: [Images] Loading Images v2.3.1
-[18:03:44] [Server thread/INFO]: [Negativity] Loading Negativity v1.14
-[18:03:44] [Server thread/INFO]: [HungerGamesLobby] Loading HungerGamesLobby v1.0-SNAPSHOT
-[18:03:44] [Server thread/INFO]: [HaoNick] Loading HaoNick v4.6.5
-[18:03:44] [Server thread/INFO]: [GrimAC] Loading GrimAC v2.3.46
-[18:03:44] [Server thread/INFO]: [GrimAC] Loading PacketEvents...
-[18:03:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:03:44] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.108
-[18:03:45] [Server thread/INFO]:         __    
-[18:03:45] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.108
-[18:03:45] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[18:03:45] [Server thread/INFO]: 
-[18:03:45] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[18:03:45] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MARIADB]
-[18:03:45] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Starting...
-[18:03:45] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Start completed.
-[18:03:45] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
-[18:03:45] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[18:03:46] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[18:03:46] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1263ms)
-[18:03:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:03:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:03:46] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[18:03:46] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[18:03:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:03:46] [Server thread/INFO]: Preparing level "world"
-[18:03:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:03:46] [Server thread/INFO]: Time elapsed: 292 ms
-[18:03:46] [Server thread/INFO]: [NickAPI] Enabling NickAPI v6.5.1
-[18:03:46] [Server thread/INFO]: [NickAPI] v1_18_R2 has been found
-[18:03:46] [Server thread/INFO]: [NickAPI] [NickAPI] Visit our discord: https://haoshoku.xyz/go/discord
-[18:03:46] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.17.1-SNAPSHOT-Updated-b169
-[18:03:46] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.13-1.20|? / Bukkit-API
-[18:03:47] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
-[18:03:47] [Server thread/INFO]: [NoCheatPlus] Packet level access: ProtocolLib is not available.
-[18:03:47] [Server thread/INFO]: [NoCheatPlus] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
-[18:03:47] [Server thread/INFO]: [NoCheatPlus] Version 3.17.1-SNAPSHOT-Updated-b169 is enabled.
-[18:03:47] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.3.0
-[18:03:47] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
-[18:03:47] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
-[18:03:47] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
-[18:03:47] [Server thread/INFO]: 
+[09:12:31] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:12:33] [Worker-Main-2/INFO]: Loaded 7 recipes
+[09:12:35] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[09:12:35] [Server thread/INFO]: Loading properties
+[09:12:35] [Server thread/INFO]: This server is running Paper version git-Paper-388 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: fc9ee65 on ver/1.18.2)
+[09:12:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:12:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:12:35] [Server thread/INFO]: Default game type: ADVENTURE
+[09:12:35] [Server thread/INFO]: Generating keypair
+[09:12:35] [Server thread/INFO]: Starting Minecraft server on *:25566
+[09:12:36] [Server thread/INFO]: Using epoll channel type
+[09:12:36] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[09:12:36] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[09:12:37] [Server thread/INFO]: [NickAPI] Loading NickAPI v6.5.1
+[09:12:37] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.106
+[09:12:37] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.10+1742f98
+[09:12:38] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@199f3cee]
+[09:12:38] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.3.0
+[09:12:38] [Server thread/INFO]: [HungerGamesCore] Loading HungerGamesCore v1.0-SNAPSHOT
+[09:12:38] [Server thread/INFO]: [Negativity] Loading Negativity v1.14
+[09:12:38] [Server thread/INFO]: [HaoNick] Loading HaoNick v4.6.5
+[09:12:38] [Server thread/INFO]: [GrimAC] Loading GrimAC v2.3.46
+[09:12:38] [Server thread/INFO]: [GrimAC] Loading PacketEvents...
+[09:12:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:12:39] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.106
+[09:12:40] [Server thread/INFO]:         __    
+[09:12:40] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.106
+[09:12:40] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[09:12:40] [Server thread/INFO]: 
+[09:12:40] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[09:12:41] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MARIADB]
+[09:12:41] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Starting...
+[09:12:41] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Start completed.
+[09:12:41] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
+[09:12:42] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[09:12:42] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[09:12:42] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2792ms)
+[09:12:42] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.10+1742f98
+[09:12:42] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[09:12:42] [Server thread/INFO]: WEPIF: Updated config file
+[09:12:42] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[09:12:43] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_18_R2.PaperweightAdapter as the Bukkit adapter
+[09:12:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:12:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:12:45] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[09:12:45] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[09:12:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:12:45] [Server thread/INFO]: Preparing level "world"
+[09:12:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:12:46] [Server thread/INFO]: Time elapsed: 619 ms
+[09:12:46] [Server thread/INFO]: [NickAPI] Enabling NickAPI v6.5.1
+[09:12:46] [Server thread/INFO]: [NickAPI] v1_18_R2 has been found
+[09:12:46] [Server thread/INFO]: [NickAPI] [NickAPI] Visit our discord: https://haoshoku.xyz/go/discord
+[09:12:46] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.3.0
+[09:12:46] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[09:12:47] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[09:12:47] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[09:12:47] [Server thread/INFO]: 
  
 []=====[Enabling AdvancedBan]=====[]
 | Information:
@@ -76,114 +71,84 @@
 |   You have the newest version
 []================================[]
  
-[18:03:47] [Server thread/INFO]: [HungerGamesCore] Enabling HungerGamesCore v1.0-SNAPSHOT
-[18:03:47] [Server thread/ERROR]: File: worldData is NULL
-[18:03:47] [Server thread/ERROR]: File: worldData is NULL
-[18:03:47] [Server thread/INFO]: Main class Changed the game state to: TESTING
-[18:03:47] [Server thread/INFO]: CoreLoaded
-[18:03:47] [Server thread/INFO]: Game state changed to: TESTING
-[18:03:47] [Server thread/INFO]: [HungerGamesCore] [STDOUT] File already exists.
-[18:03:47] [Server thread/WARN]: Nag author(s): '[]' of 'HungerGamesCore' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[18:03:47] [Server thread/WARN]: [HungerGamesCore] Loaded class me.leoko.advancedban.shaded.org.hsqldb.jdbc.JDBCDriver from AdvancedBan v2.3.0 which is not a depend or softdepend of this plugin.
-[18:03:48] [Server thread/INFO]: [Images] Enabling Images v2.3.1
-[18:03:48] [Server thread/INFO]: [Negativity] Enabling Negativity v1.14
-[18:03:48] [Server thread/INFO]: [Negativity] Detected server version: v1_18 (v1_18_R2)
-[18:03:48] [Server thread/WARN]: [Negativity] This plugin has no longer support since 01/09/2023. Only the premium version is now updated.
-[18:03:48] [Server thread/WARN]: [Negativity] You can find it at: https://www.spigotmc.org/resources/86874.
-[18:03:48] [Server thread/INFO]: [Negativity] This plugin is free, but you can buy the premium version : https://www.spigotmc.org/resources/86874 <3
-[18:03:48] [Server thread/INFO]: [Negativity] Founded u/v/w baseBlock's methods
-[18:03:48] [Server thread/INFO]: [Negativity] Loaded support for AdvancedBan.
-[18:03:48] [Server thread/INFO]: [HungerGamesLobby] Enabling HungerGamesLobby v1.0-SNAPSHOT
-[18:03:48] [Server thread/ERROR]: File: config.yml is NULL
-[18:03:48] [Server thread/INFO]: [HaoNick] Enabling HaoNick v4.6.5
-[18:03:48] [Server thread/INFO]: [GrimAC] Enabling GrimAC v2.3.46
-[18:03:48] [Server thread/INFO]: [GrimAC] Registering singular bukkit event... (PistonEvent)
-[18:03:48] [Server thread/INFO]: [GrimAC] Registering packets...
-[18:03:48] [Server thread/INFO]: [GrimAC] Registering an outgoing plugin channel...
-[18:03:48] [Server thread/INFO]: [GrimAC] Registering tick schedulers...
-[18:03:48] [Server thread/INFO]: [GrimAC] [ACF] Enabled Asynchronous Tab Completion Support!
-[18:03:48] [Server thread/INFO]: Running delayed init tasks
-[18:03:48] [Craft Scheduler Thread - 2 - NoCheatPlus/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
-[18:03:48] [Craft Scheduler Thread - 2 - NoCheatPlus/INFO]: [NoCheatPlus] Added hook: ViolationFrequency(NCP) [1.0].
-[18:03:48] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
-[18:03:48] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
-[18:03:48] [Server thread/INFO]: Done (5.718s)! For help, type "help"
-[18:03:48] [Server thread/INFO]: Timings Reset
-[18:03:48] [Craft Scheduler Thread - 3 - NickAPI/INFO]: [NickAPI] A new version of NickAPI [6.5.3] is available! You are on 6.5.1.
-[18:03:50] [Craft Scheduler Thread - 5 - Images/INFO]: [Images] Loaded 25 images...
-[18:09:04] [User Authenticator #1/INFO]: UUID of player SylusSquared is e5c90261-b745-4f34-8d8d-8ca9d73c2ca2
-[18:09:04] [Server thread/WARN]: Trying to add player data to localData
-[18:09:04] [Server thread/ERROR]: 25 This is from line 43 of JoinAndLeave
-[18:09:04] [Server thread/INFO]: [HungerGamesCore] [STDOUT] 0PLAYERNUMBERS
-[18:09:04] [Server thread/WARN]: Nag author(s): '[]' of 'HungerGamesCore' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[18:09:04] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "networkManager" is null
-[18:09:04] [Server thread/WARN]: 	at Negativity-1.14.jar//com.elikill58.negativity.spigot.packets.custom.channel.INC2Channel.getChannel(INC2Channel.java:91)
-[18:09:04] [Server thread/WARN]: 	at Negativity-1.14.jar//com.elikill58.negativity.spigot.packets.custom.channel.INC2Channel.getChannel(INC2Channel.java:1)
-[18:09:04] [Server thread/WARN]: 	at Negativity-1.14.jar//com.elikill58.negativity.spigot.packets.custom.channel.ChannelAbstract.addPlayer(ChannelAbstract.java:54)
-[18:09:04] [Server thread/WARN]: 	at Negativity-1.14.jar//com.elikill58.negativity.spigot.packets.custom.CustomPacketManager.addPlayer(CustomPacketManager.java:67)
-[18:09:04] [Server thread/WARN]: 	at Negativity-1.14.jar//com.elikill58.negativity.spigot.packets.custom.CustomPacketManager.onJoin(CustomPacketManager.java:56)
-[18:09:04] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor44.execute(Unknown Source)
-[18:09:04] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75)
-[18:09:04] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
-[18:09:04] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
-[18:09:04] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669)
-[18:09:04] [Server thread/WARN]: 	at net.minecraft.server.players.PlayerList.postChunkLoadJoin(PlayerList.java:363)
-[18:09:04] [Server thread/WARN]: 	at net.minecraft.server.players.PlayerList.lambda$placeNewPlayer$1(PlayerList.java:305)
-[18:09:04] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.c(PlayerConnection.java:305)
-[18:09:04] [Server thread/WARN]: 	at net.minecraft.network.NetworkManager.a(NetworkManager.java:567)
-[18:09:04] [Server thread/WARN]: 	at net.minecraft.server.network.ServerConnection.c(ServerConnection.java:231)
-[18:09:04] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1623)
-[18:09:04] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:483)
-[18:09:04] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1456)
-[18:09:04] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1226)
-[18:09:04] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
-[18:09:04] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
-[18:09:04] [pool-10-thread-1/WARN]: java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "networkManager" is null
-[18:09:04] [pool-10-thread-1/WARN]: 	at Negativity-1.14.jar//com.elikill58.negativity.spigot.packets.custom.channel.INC2Channel.getChannel(INC2Channel.java:91)
-[18:09:04] [pool-10-thread-1/WARN]: 	at Negativity-1.14.jar//com.elikill58.negativity.spigot.packets.custom.channel.INC2Channel.lambda$1(INC2Channel.java:47)
-[18:09:04] [pool-10-thread-1/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
-[18:09:04] [pool-10-thread-1/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
-[18:09:04] [pool-10-thread-1/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
-[18:09:04] [Server thread/INFO]: SylusSquared[/127.0.0.1:60085] logged in with entity id 14 at ([world]-511.90334002499816, 207.0, -88.13443230126893)
-[18:09:05] [Craft Scheduler Thread - 5 - HaoNick/INFO]: SylusSquared joined the game
-[18:09:19] [Server thread/INFO]: SylusSquared issued server command: /join game
-[18:09:22] [Server thread/INFO]: SylusSquared lost connection: Disconnected
-[18:09:22] [Server thread/INFO]: SylusSquared left the game
-[18:39:29] [User Authenticator #2/INFO]: UUID of player SylusSquared is e5c90261-b745-4f34-8d8d-8ca9d73c2ca2
-[18:39:29] [Server thread/WARN]: Trying to add player data to localData
-[18:39:29] [Server thread/WARN]: Player already in the Local data system joined
-[18:39:29] [Server thread/INFO]: [HungerGamesCore] [STDOUT] 0PLAYERNUMBERS
-[18:39:29] [Server thread/WARN]: Nag author(s): '[]' of 'HungerGamesCore' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[18:39:29] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "networkManager" is null
-[18:39:29] [Server thread/WARN]: 	at Negativity-1.14.jar//com.elikill58.negativity.spigot.packets.custom.channel.INC2Channel.getChannel(INC2Channel.java:91)
-[18:39:29] [Server thread/WARN]: 	at Negativity-1.14.jar//com.elikill58.negativity.spigot.packets.custom.channel.INC2Channel.getChannel(INC2Channel.java:1)
-[18:39:29] [Server thread/WARN]: 	at Negativity-1.14.jar//com.elikill58.negativity.spigot.packets.custom.channel.ChannelAbstract.addPlayer(ChannelAbstract.java:54)
-[18:39:29] [Server thread/WARN]: 	at Negativity-1.14.jar//com.elikill58.negativity.spigot.packets.custom.CustomPacketManager.addPlayer(CustomPacketManager.java:67)
-[18:39:29] [Server thread/WARN]: 	at Negativity-1.14.jar//com.elikill58.negativity.spigot.packets.custom.CustomPacketManager.onJoin(CustomPacketManager.java:56)
-[18:39:29] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor44.execute(Unknown Source)
-[18:39:29] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75)
-[18:39:29] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
-[18:39:29] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
-[18:39:29] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:669)
-[18:39:29] [Server thread/WARN]: 	at net.minecraft.server.players.PlayerList.postChunkLoadJoin(PlayerList.java:363)
-[18:39:29] [Server thread/WARN]: 	at net.minecraft.server.players.PlayerList.lambda$placeNewPlayer$1(PlayerList.java:305)
-[18:39:29] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.c(PlayerConnection.java:305)
-[18:39:29] [Server thread/WARN]: 	at net.minecraft.network.NetworkManager.a(NetworkManager.java:567)
-[18:39:29] [Server thread/WARN]: 	at net.minecraft.server.network.ServerConnection.c(ServerConnection.java:231)
-[18:39:29] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1623)
-[18:39:29] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:483)
-[18:39:29] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1456)
-[18:39:29] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1226)
-[18:39:29] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
-[18:39:29] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
-[18:39:29] [pool-10-thread-1/WARN]: java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "networkManager" is null
-[18:39:29] [pool-10-thread-1/WARN]: 	at Negativity-1.14.jar//com.elikill58.negativity.spigot.packets.custom.channel.INC2Channel.getChannel(INC2Channel.java:91)
-[18:39:29] [pool-10-thread-1/WARN]: 	at Negativity-1.14.jar//com.elikill58.negativity.spigot.packets.custom.channel.INC2Channel.lambda$1(INC2Channel.java:47)
-[18:39:29] [pool-10-thread-1/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
-[18:39:29] [pool-10-thread-1/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
-[18:39:29] [pool-10-thread-1/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
-[18:39:29] [Server thread/INFO]: SylusSquared[/127.0.0.1:33071] logged in with entity id 67 at ([world]-511.90334002499816, 207.0, -88.13443230126893)
-[18:39:30] [Craft Scheduler Thread - 39 - HaoNick/INFO]: SylusSquared joined the game
-[18:40:38] [Server thread/INFO]: SylusSquared issued server command: /join game
-[18:40:40] [Server thread/INFO]: SylusSquared lost connection: Disconnected
-[18:40:40] [Server thread/INFO]: SylusSquared left the game
+[09:12:47] [Server thread/INFO]: [HungerGamesCore] Enabling HungerGamesCore v1.0-SNAPSHOT
+[09:12:47] [Server thread/ERROR]: File: worldData is NULL
+[09:12:47] [Server thread/ERROR]: File: worldData is NULL
+[09:12:47] [Server thread/INFO]: Main class Changed the game state to: TESTING
+[09:12:47] [Server thread/INFO]: CoreLoaded
+[09:12:47] [Server thread/INFO]: Game state changed to: TESTING
+[09:12:47] [Server thread/INFO]: [HungerGamesCore] [STDOUT] File already exists.
+[09:12:47] [Server thread/WARN]: Nag author(s): '[]' of 'HungerGamesCore' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[09:12:47] [Server thread/WARN]: [HungerGamesCore] Loaded class me.leoko.advancedban.shaded.org.hsqldb.jdbc.JDBCDriver from AdvancedBan v2.3.0 which is not a depend or softdepend of this plugin.
+[09:12:48] [Server thread/INFO]: [Negativity] Enabling Negativity v1.14
+[09:12:48] [Server thread/INFO]: [Negativity] Detected server version: v1_18 (v1_18_R2)
+[09:12:48] [Server thread/WARN]: [Negativity] This plugin has no longer support since 01/09/2023. Only the premium version is now updated.
+[09:12:48] [Server thread/WARN]: [Negativity] You can find it at: https://www.spigotmc.org/resources/86874.
+[09:12:48] [Server thread/INFO]: [Negativity] This plugin is free, but you can buy the premium version : https://www.spigotmc.org/resources/86874 <3
+[09:12:48] [Server thread/INFO]: [Negativity] Founded u/v/w baseBlock's methods
+[09:12:48] [Server thread/INFO]: [Negativity] Loaded support for AdvancedBan.
+[09:12:48] [Server thread/INFO]: [HaoNick] Enabling HaoNick v4.6.5
+[09:12:48] [Server thread/INFO]: [GrimAC] Enabling GrimAC v2.3.46
+[09:12:48] [Server thread/INFO]: [GrimAC] Registering singular bukkit event... (PistonEvent)
+[09:12:48] [Server thread/INFO]: [GrimAC] Registering packets...
+[09:12:48] [Server thread/INFO]: [GrimAC] Registering an outgoing plugin channel...
+[09:12:49] [Server thread/INFO]: [GrimAC] Registering tick schedulers...
+[09:12:49] [Server thread/INFO]: [GrimAC] [ACF] Enabled Asynchronous Tab Completion Support!
+[09:12:49] [Server thread/INFO]: Running delayed init tasks
+[09:12:49] [Server thread/INFO]: Done (14.306s)! For help, type "help"
+[09:12:49] [Server thread/INFO]: Timings Reset
+[09:12:49] [Craft Scheduler Thread - 3 - NickAPI/INFO]: [NickAPI] A new version of NickAPI [6.5.3] is available! You are on 6.5.1.
+[09:25:33] [User Authenticator #1/INFO]: UUID of player SylusSquared is e5c90261-b745-4f34-8d8d-8ca9d73c2ca2
+[09:25:33] [Server thread/WARN]: Trying to add player data to localData
+[09:25:33] [Server thread/INFO]: [HungerGamesCore] [STDOUT] 0PLAYERNUMBERS
+[09:25:33] [Server thread/WARN]: Nag author(s): '[]' of 'HungerGamesCore' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[09:25:33] [Server thread/INFO]: SylusSquared[/127.0.0.1:33017] logged in with entity id 13 at ([world]-165.0, 68.0, -35.0)
+[09:25:33] [Craft Scheduler Thread - 15 - HaoNick/INFO]: SylusSquared joined the game
+[09:36:17] [Server thread/INFO]: SylusSquared issued server command: /stop
+[09:36:17] [Server thread/INFO]: [SylusSquared: Stopping the server]
+[09:36:17] [Server thread/INFO]: Stopping server
+[09:36:17] [Server thread/INFO]: [GrimAC] Disabling GrimAC v2.3.46
+[09:36:17] [Server thread/INFO]: [GrimAC] Terminating PacketEvents...
+[09:36:17] [Server thread/INFO]: [HaoNick] Disabling HaoNick v4.6.5
+[09:36:17] [Server thread/INFO]: [Negativity] Disabling Negativity v1.14
+[09:36:17] [Server thread/INFO]: [HungerGamesCore] Disabling HungerGamesCore v1.0-SNAPSHOT
+[09:36:17] [Server thread/WARN]: Closed the database connection
+[09:36:17] [Server thread/ERROR]: java.sql.SQLNonTransientConnectionException: (conn=53) Connection is closed
+[09:36:17] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.3.0
+[09:36:17] [Server thread/INFO]: [hsqldb.db.HSQLDB8BA57FE727.ENGINE] Database closed
+[09:36:17] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[09:36:17] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[09:36:17] [Server thread/INFO]: 
+ 
+[]=====[Disabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.3.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+[]================================[]
+ 
+[09:36:17] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.10+1742f98
+[09:36:17] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[09:36:17] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.106
+[09:36:17] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[09:36:17] [Server thread/INFO]: [LuckPerms] Closing messaging service...
+[09:36:17] [Server thread/INFO]: [LuckPerms] Closing storage...
+[09:36:17] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown initiated...
+[09:36:17] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown completed.
+[09:36:17] [Server thread/INFO]: [LuckPerms] Goodbye!
+[09:36:17] [Server thread/INFO]: [NickAPI] Disabling NickAPI v6.5.1
+[09:36:17] [Server thread/INFO]: Saving players
+[09:36:17] [Server thread/INFO]: SylusSquared lost connection: Server closed
+[09:36:17] [Server thread/INFO]: SylusSquared left the game
+[09:36:17] [Server thread/INFO]: Saving worlds
+[09:36:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:36:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:36:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:36:18] [Server thread/INFO]: Flushing Chunk IO
+[09:36:18] [Server thread/INFO]: Closing Thread Pool
+[09:36:18] [Server thread/INFO]: Closing Server

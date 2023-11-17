@@ -2749,3 +2749,139 @@ INFO: HikariPool-1 - Shutdown completed.
 18:50:56 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
 18:50:56 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
 18:50:56 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+19:23:37 [INFO] Closing listener [id: 0x6d0e72b2, L:/[0:0:0:0:0:0:0:0%0]:25565]
+19:23:37 [INFO] Closing pending connections
+19:23:37 [INFO] Disconnecting 0 connections
+19:23:37 [INFO] Saving reconnect locations
+19:23:37 [INFO] Disabling plugins
+19:23:37 [SEVERE] Nov 12, 2023 7:23:37 PM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+
+19:23:37 [SEVERE] Nov 12, 2023 7:23:37 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown initiated...
+
+19:23:37 [SEVERE] Nov 12, 2023 7:23:37 PM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown completed.
+
+19:23:37 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+19:23:37 [INFO] [LuckPerms] Starting shutdown process...
+19:23:37 [INFO] [LuckPerms] Closing storage...
+19:23:37 [INFO] [LuckPerms] Goodbye!
+19:23:37 [INFO] Closing IO threads
+09:12:19 [INFO] Using mbed TLS based native cipher.
+09:12:19 [INFO] Using zlib based native compressor.
+09:12:19 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.2-SNAPSHOT:9cdb2ba:1759
+09:12:19 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+09:12:19 [INFO] Epoll is working, utilising it!
+09:12:19 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+09:12:19 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+09:12:19 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+09:12:19 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+09:12:19 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+09:12:19 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+09:12:19 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+09:12:19 [INFO] Loaded plugin LuckPerms version 5.4.108 by Luck
+09:12:19 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+09:12:19 [INFO] Loaded plugin AdvancedBan version 2.3.0 by Leoko
+09:12:19 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+09:12:19 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+09:12:19 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+09:12:19 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+09:12:19 [WARNING] Forced host server pvp is not defined
+09:12:19 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+09:12:20 [INFO] §b       §3 __    
+09:12:20 [INFO] §b  |    §3|__)   §2LuckPerms§r §bv5.4.108
+09:12:20 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+09:12:20 [INFO] 
+09:12:20 [INFO] [LuckPerms] Loading configuration...
+09:12:20 [INFO] [LuckPerms] Loading storage provider... [H2]
+09:12:20 [INFO] [LuckPerms] Loading internal permission managers...
+09:12:20 [INFO] [LuckPerms] Performing initial data load...
+09:12:20 [INFO] [LuckPerms] Successfully enabled. (took 900ms)
+09:12:20 [INFO] Enabled plugin LuckPerms version 5.4.108 by Luck
+09:12:20 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+09:12:20 [INFO] §f[AdvancedBan] Offline permission support through LuckPerms active
+09:12:20 [INFO] HikariPool-1 - Starting...
+09:12:21 [INFO] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+09:12:21 [INFO] HikariPool-1 - Start completed.
+09:12:21 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+09:12:21 [INFO] Enabled plugin AdvancedBan version 2.3.0 by Leoko
+09:12:21 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+09:12:21 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+09:12:21 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+09:12:21 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:9cdb2ba:1759 by SpigotMC
+09:12:21 [INFO] Listening on /0.0.0.0:25565
+09:12:47 [INFO] [/127.0.0.1:33458] <-> InitialHandler has connected
+09:12:47 [INFO] [SylusSquared] <-> ServerConnector [game] has connected
+09:12:52 [WARNING] Plugin listener me.lucko.luckperms.bungee.listeners.BungeePermissionCheckListener took 54ms to process event PermissionCheckEvent(sender=SylusSquared, permission=bungeecord.command.server, hasPermission=false)!
+09:25:33 [INFO] [SylusSquared] <-> ServerConnector [lobby] has connected
+09:25:35 [INFO] [SylusSquared] <-> DownstreamBridge <-> [game] has disconnected
+09:36:17 [INFO] [SylusSquared] disconnected with: §cProxy lost connection to server.
+09:36:17 [INFO] [SylusSquared] <-> DownstreamBridge <-> [lobby] has disconnected
+09:36:17 [INFO] [SylusSquared] -> UpstreamBridge has disconnected
+09:36:30 [INFO] Closing listener [id: 0x3641aaff, L:/[0:0:0:0:0:0:0:0%0]:25565]
+09:36:30 [INFO] Closing pending connections
+09:36:30 [INFO] Disconnecting 0 connections
+09:36:30 [INFO] Saving reconnect locations
+09:36:30 [INFO] Disabling plugins
+09:36:30 [SEVERE] Nov 14, 2023 9:36:30 AM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+
+09:36:30 [SEVERE] Nov 14, 2023 9:36:30 AM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown initiated...
+
+09:36:30 [SEVERE] Nov 14, 2023 9:36:30 AM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource close
+INFO: HikariPool-1 - Shutdown completed.
+
+09:36:30 [INFO] §f
+ 
+§8[]=====[§7Disabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8[]================================[]§f
+ 
+09:36:30 [INFO] [LuckPerms] Starting shutdown process...
+09:36:30 [INFO] [LuckPerms] Closing storage...
+09:36:30 [INFO] [LuckPerms] Goodbye!
+09:36:30 [INFO] Closing IO threads
