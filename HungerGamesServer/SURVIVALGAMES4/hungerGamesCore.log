@@ -1,0 +1,5 @@
+2023-11-21 19:49:11 [INFO] Closing the database connection
+2023-11-21 19:53:47 [INFO] Closing the database connection
+2023-11-21 19:57:39 [INFO] File already exists.
+2023-11-21 20:12:17 [INFO] Closing the database connection
+2023-11-21 20:12:17 [SEVERE] java.sql.SQLNonTransientConnectionException: (conn=82) Connection is closed

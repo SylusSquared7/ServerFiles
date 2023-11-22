@@ -147,6 +147,3 @@ commands:
     aliases:
     - setrank
     - setfakerank
-  nick_reload:
-    command_execution:
-    - none

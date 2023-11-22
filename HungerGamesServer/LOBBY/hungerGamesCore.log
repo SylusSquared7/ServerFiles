@@ -1,0 +1,32 @@
+2023-11-21 19:53:55 [INFO] Plugin started and is beginning initialising
+2023-11-21 19:53:55 [WARNING] Files generated an exception: dataConfig is null, re initialising
+2023-11-21 19:53:55 [INFO] Initialising the database connection
+2023-11-21 19:53:55 [INFO] Initialised the database connection
+2023-11-21 19:53:55 [INFO] Finished initialised everything
+2023-11-21 20:00:00 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-21 20:00:00 [INFO] Attempted to add the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 to the local player data
+2023-11-21 20:00:00 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-21 20:00:00 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined
+2023-11-21 20:14:18 [INFO] Plugin disabled, de-initialising
+2023-11-21 20:14:18 [INFO] Closed the database connection
+2023-11-21 20:14:18 [INFO] Plugin stopped, ending
+2023-11-22 17:19:04 [INFO] Plugin started and is beginning initialising
+2023-11-22 17:19:04 [WARNING] Files generated an exception: dataConfig is null, re initialising
+2023-11-22 17:19:04 [INFO] Initialising the database connection
+2023-11-22 17:19:04 [INFO] Initialised the database connection
+2023-11-22 17:19:04 [INFO] Finished initialised everything
+2023-11-22 17:50:36 [INFO] Plugin disabled, de-initialising
+2023-11-22 17:50:36 [INFO] Closed the database connection
+2023-11-22 17:50:36 [INFO] Plugin stopped, ending
+2023-11-22 19:09:22 [INFO] Plugin started and is beginning initialising
+2023-11-22 19:09:22 [WARNING] Files generated an exception: dataConfig is null, re initialising
+2023-11-22 19:09:22 [INFO] Initialising the database connection
+2023-11-22 19:09:22 [INFO] Initialised the database connection
+2023-11-22 19:09:22 [INFO] Finished initialised everything
+2023-11-22 20:57:00 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-22 20:57:00 [INFO] Attempted to add the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 to the local player data
+2023-11-22 20:57:01 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-22 20:57:01 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined
+2023-11-22 20:57:54 [INFO] Plugin disabled, de-initialising
+2023-11-22 20:57:54 [INFO] Closed the database connection
+2023-11-22 20:57:54 [INFO] Plugin stopped, ending
