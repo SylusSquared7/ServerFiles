@@ -30,3 +30,221 @@
 2023-11-22 20:57:54 [INFO] Plugin disabled, de-initialising
 2023-11-22 20:57:54 [INFO] Closed the database connection
 2023-11-22 20:57:54 [INFO] Plugin stopped, ending
+2023-11-23 19:09:47 [INFO] Plugin started and is beginning initialising
+2023-11-23 19:09:47 [WARNING] Files generated an exception: dataConfig is null, re initialising
+2023-11-23 19:09:47 [INFO] Initialising the database connection
+2023-11-23 19:09:47 [INFO] Initialised the database connection
+2023-11-23 19:09:47 [INFO] Finished initialised everything
+2023-11-23 19:10:19 [SEVERE] The data retrived for: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is null
+2023-11-23 19:10:19 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-23 19:10:19 [INFO] Attempted to add the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 to the local player data
+2023-11-23 19:10:19 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined the server for the first time
+2023-11-23 19:14:01 [INFO] Plugin disabled, de-initialising
+2023-11-23 19:14:01 [INFO] Trying to sync the database and local data
+2023-11-23 19:14:01 [INFO] Closed the database connection
+2023-11-23 19:14:01 [INFO] Plugin stopped, ending
+2023-11-23 19:14:20 [INFO] Plugin started and is beginning initialising
+2023-11-23 19:14:20 [WARNING] Files generated an exception: dataConfig is null, re initialising
+2023-11-23 19:14:20 [INFO] Initialising the database connection
+2023-11-23 19:14:20 [INFO] Initialised the database connection
+2023-11-23 19:14:20 [INFO] Finished initialised everything
+2023-11-23 19:14:27 [SEVERE] The data retrived for: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is null
+2023-11-23 19:14:27 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-23 19:14:27 [INFO] Attempted to add the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 to the local player data
+2023-11-23 19:14:27 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined the server for the first time
+2023-11-23 19:26:47 [INFO] Created the scoreboard
+2023-11-23 19:26:47 [INFO] Created the scoreboard
+2023-11-23 19:26:47 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-23 19:26:47 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined
+2023-11-23 19:35:39 [INFO] Plugin disabled, de-initialising
+2023-11-23 19:35:39 [INFO] Trying to sync the database and local data
+2023-11-23 19:35:39 [INFO] Closed the database connection
+2023-11-23 19:35:39 [INFO] Plugin stopped, ending
+2023-11-23 19:36:06 [INFO] Plugin started and is beginning initialising
+2023-11-23 19:36:06 [WARNING] Files generated an exception: dataConfig is null, re initialising
+2023-11-23 19:36:06 [INFO] Initialising the database connection
+2023-11-23 19:36:06 [INFO] Initialised the database connection
+2023-11-23 19:36:06 [INFO] Finished initialised everything
+2023-11-23 19:36:21 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-23 19:36:21 [INFO] Attempted to add the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 to the local player data
+2023-11-23 19:36:21 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined the server for the first time
+2023-11-23 19:36:21 [INFO] Created the scoreboard
+2023-11-23 19:36:21 [INFO] Created the scoreboard
+2023-11-23 19:41:39 [INFO] Plugin disabled, de-initialising
+2023-11-23 19:41:39 [INFO] Trying to sync the database and local data
+2023-11-23 19:41:39 [INFO] Closed the database connection
+2023-11-23 19:41:39 [INFO] Plugin stopped, ending
+2023-11-24 17:23:51 [INFO] Plugin started and is beginning initialising
+2023-11-24 17:23:51 [WARNING] Files generated an exception: dataConfig is null, re initialising
+2023-11-24 17:23:51 [INFO] Initialising the database connection
+2023-11-24 17:23:52 [INFO] Initialised the database connection
+2023-11-24 17:23:52 [INFO] Finished initialised everything
+2023-11-24 17:24:36 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-24 17:24:36 [INFO] Attempted to add the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 to the local player data
+2023-11-24 17:24:36 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined the server for the first time
+2023-11-24 17:24:36 [INFO] Created the scoreboard
+2023-11-24 17:24:36 [INFO] Created the scoreboard
+2023-11-24 19:40:29 [INFO] Plugin disabled, de-initialising
+2023-11-24 19:40:29 [INFO] Closed the database connection
+2023-11-24 19:40:29 [INFO] Plugin stopped, ending
+2023-11-25 09:59:00 [INFO] Plugin started and is beginning initialising
+2023-11-25 09:59:00 [WARNING] Files generated an exception: dataConfig is null, re initialising
+2023-11-25 09:59:00 [INFO] Initialising the database connection
+2023-11-25 09:59:00 [INFO] Initialised the database connection
+2023-11-25 09:59:00 [INFO] Finished initialised everything
+2023-11-25 09:59:33 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-25 09:59:33 [INFO] Attempted to add the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 to the local player data
+2023-11-25 09:59:33 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined the server for the first time
+2023-11-25 09:59:33 [INFO] Created the scoreboard
+2023-11-25 09:59:33 [INFO] Created the scoreboard
+2023-11-25 10:03:22 [INFO] Created the armourstand scoreboard
+2023-11-25 10:14:26 [INFO] Plugin disabled, de-initialising
+2023-11-25 10:14:26 [INFO] Trying to sync the database and local data
+2023-11-25 10:14:26 [INFO] Closed the database connection
+2023-11-25 10:14:26 [INFO] Plugin stopped, ending
+2023-11-25 10:14:47 [INFO] Plugin started and is beginning initialising
+2023-11-25 10:14:47 [WARNING] Files generated an exception: dataConfig is null, re initialising
+2023-11-25 10:14:47 [INFO] Initialising the database connection
+2023-11-25 10:14:47 [INFO] Initialised the database connection
+2023-11-25 10:14:47 [INFO] Finished initialised everything
+2023-11-25 10:14:56 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-25 10:14:56 [INFO] Attempted to add the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 to the local player data
+2023-11-25 10:14:56 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined the server for the first time
+2023-11-25 10:14:56 [INFO] Created the scoreboard
+2023-11-25 10:14:56 [INFO] Created the scoreboard
+2023-11-25 10:16:05 [INFO] Created the armourstand scoreboard
+2023-11-25 10:24:02 [INFO] Plugin disabled, de-initialising
+2023-11-25 10:24:02 [INFO] Trying to sync the database and local data
+2023-11-25 10:24:02 [INFO] Closed the database connection
+2023-11-25 10:24:02 [INFO] Plugin stopped, ending
+2023-11-25 10:24:26 [INFO] Plugin started and is beginning initialising
+2023-11-25 10:24:26 [WARNING] Files generated an exception: dataConfig is null, re initialising
+2023-11-25 10:24:26 [INFO] Initialising the database connection
+2023-11-25 10:24:26 [INFO] Initialised the database connection
+2023-11-25 10:24:26 [INFO] Finished initialised everything
+2023-11-25 10:24:29 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-25 10:24:29 [INFO] Attempted to add the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 to the local player data
+2023-11-25 10:24:29 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined the server for the first time
+2023-11-25 10:24:43 [INFO] Created the armourstand scoreboard
+2023-11-25 10:30:17 [INFO] Plugin disabled, de-initialising
+2023-11-25 10:30:17 [INFO] Trying to sync the database and local data
+2023-11-25 10:30:17 [INFO] Closed the database connection
+2023-11-25 10:30:17 [INFO] Plugin stopped, ending
+2023-11-25 10:30:34 [INFO] Plugin started and is beginning initialising
+2023-11-25 10:30:34 [WARNING] Files generated an exception: dataConfig is null, re initialising
+2023-11-25 10:30:34 [INFO] Initialising the database connection
+2023-11-25 10:30:34 [INFO] Initialised the database connection
+2023-11-25 10:30:34 [INFO] Finished initialised everything
+2023-11-25 10:30:45 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-25 10:30:45 [INFO] Attempted to add the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 to the local player data
+2023-11-25 10:30:45 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined the server for the first time
+2023-11-25 10:30:57 [INFO] Created the armourstand scoreboard
+2023-11-25 10:31:49 [INFO] Updated scores on the armor stands.
+2023-11-25 10:31:58 [INFO] Plugin disabled, de-initialising
+2023-11-25 10:31:58 [INFO] Trying to sync the database and local data
+2023-11-25 10:31:58 [INFO] Closed the database connection
+2023-11-25 10:31:58 [INFO] Plugin stopped, ending
+2023-11-25 10:33:35 [INFO] Plugin started and is beginning initialising
+2023-11-25 10:33:35 [WARNING] Files generated an exception: dataConfig is null, re initialising
+2023-11-25 10:33:35 [INFO] Initialising the database connection
+2023-11-25 10:33:35 [INFO] Initialised the database connection
+2023-11-25 10:33:35 [INFO] Finished initialised everything
+2023-11-25 10:34:08 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-25 10:34:08 [INFO] Attempted to add the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 to the local player data
+2023-11-25 10:34:08 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined the server for the first time
+2023-11-25 10:34:08 [INFO] Created the scoreboard
+2023-11-25 10:34:08 [INFO] Created the scoreboard
+2023-11-25 10:37:09 [INFO] Plugin disabled, de-initialising
+2023-11-25 10:37:09 [INFO] Trying to sync the database and local data
+2023-11-25 10:37:09 [INFO] Closed the database connection
+2023-11-25 10:37:09 [INFO] Plugin stopped, ending
+2023-11-25 10:37:50 [INFO] Plugin started and is beginning initialising
+2023-11-25 10:37:50 [WARNING] Files generated an exception: dataConfig is null, re initialising
+2023-11-25 10:37:50 [INFO] Initialising the database connection
+2023-11-25 10:37:50 [INFO] Initialised the database connection
+2023-11-25 10:37:50 [INFO] Finished initialised everything
+2023-11-25 10:38:26 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-25 10:38:26 [INFO] Attempted to add the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 to the local player data
+2023-11-25 10:38:26 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined the server for the first time
+2023-11-25 10:38:26 [INFO] Created the scoreboard
+2023-11-25 10:38:26 [INFO] Created the scoreboard
+2023-11-25 10:38:49 [INFO] Created the armourstand scoreboard
+2023-11-25 10:42:17 [INFO] Plugin disabled, de-initialising
+2023-11-25 10:42:17 [INFO] Trying to sync the database and local data
+2023-11-25 10:42:17 [INFO] Closed the database connection
+2023-11-25 10:42:17 [INFO] Plugin stopped, ending
+2023-11-25 10:43:52 [INFO] Plugin started and is beginning initialising
+2023-11-25 10:43:52 [WARNING] Files generated an exception: dataConfig is null, re initialising
+2023-11-25 10:43:52 [INFO] Initialising the database connection
+2023-11-25 10:43:52 [INFO] Initialised the database connection
+2023-11-25 10:43:52 [INFO] Finished initialised everything
+2023-11-25 10:44:01 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-25 10:44:01 [INFO] Attempted to add the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 to the local player data
+2023-11-25 10:44:01 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined the server for the first time
+2023-11-25 10:44:01 [INFO] Created the scoreboard
+2023-11-25 10:44:01 [INFO] Created the scoreboard
+2023-11-25 10:45:15 [INFO] Created the armourstand scoreboard
+2023-11-25 10:45:22 [INFO] Updated scores on the armor stands.
+2023-11-25 10:45:51 [INFO] Created the armourstand scoreboard
+2023-11-25 10:46:06 [INFO] Plugin disabled, de-initialising
+2023-11-25 10:46:06 [INFO] Trying to sync the database and local data
+2023-11-25 10:46:06 [INFO] Closed the database connection
+2023-11-25 10:46:06 [INFO] Plugin stopped, ending
+2023-11-25 10:46:23 [INFO] Plugin started and is beginning initialising
+2023-11-25 10:46:23 [WARNING] Files generated an exception: dataConfig is null, re initialising
+2023-11-25 10:46:23 [INFO] Initialising the database connection
+2023-11-25 10:46:23 [INFO] Initialised the database connection
+2023-11-25 10:46:23 [INFO] Finished initialised everything
+2023-11-25 10:46:40 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-25 10:46:40 [INFO] Attempted to add the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 to the local player data
+2023-11-25 10:46:40 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined the server for the first time
+2023-11-25 10:46:40 [INFO] Created the scoreboard
+2023-11-25 10:46:40 [INFO] Created the scoreboard
+2023-11-25 10:46:55 [INFO] Created the armourstand scoreboard
+2023-11-25 10:46:59 [INFO] Updated scores on the armor stands.
+2023-11-25 10:55:48 [INFO] Plugin disabled, de-initialising
+2023-11-25 10:55:48 [INFO] Trying to sync the database and local data
+2023-11-25 10:55:48 [INFO] Closed the database connection
+2023-11-25 10:55:48 [INFO] Plugin stopped, ending
+2023-11-25 13:59:51 [INFO] Plugin started and is beginning initialising
+2023-11-25 13:59:51 [WARNING] Files generated an exception: dataConfig is null, re initialising
+2023-11-25 13:59:51 [INFO] Initialising the database connection
+2023-11-25 13:59:52 [INFO] Initialised the database connection
+2023-11-25 13:59:52 [INFO] Finished initialised everything
+2023-11-25 14:01:17 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-25 14:01:17 [INFO] Attempted to add the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 to the local player data
+2023-11-25 14:01:17 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined the server for the first time
+2023-11-25 14:03:18 [INFO] Created the armourstand scoreboard
+2023-11-25 14:28:06 [INFO] Plugin disabled, de-initialising
+2023-11-25 14:28:06 [INFO] Closed the database connection
+2023-11-25 14:28:06 [INFO] Plugin stopped, ending
+2023-11-26 12:23:49 [INFO] Plugin started and is beginning initialising
+2023-11-26 12:23:49 [WARNING] Files generated an exception: dataConfig is null, re initialising
+2023-11-26 12:23:49 [INFO] Initialising the database connection
+2023-11-26 12:23:49 [INFO] Initialised the database connection
+2023-11-26 12:23:49 [INFO] Finished initialised everything
+2023-11-26 12:29:34 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-26 12:29:34 [INFO] Attempted to add the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 to the local player data
+2023-11-26 12:29:34 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined the server for the first time
+2023-11-26 12:33:38 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-26 12:33:38 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined
+2023-11-26 12:40:26 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-26 12:40:26 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined
+2023-11-26 12:43:01 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-26 12:43:01 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined
+2023-11-26 12:47:16 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-26 12:47:16 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined
+2023-11-26 14:41:32 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-26 14:41:32 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined
+2023-11-26 14:44:23 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-26 14:44:23 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined
+2023-11-26 14:47:01 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-26 14:47:01 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined
+2023-11-26 14:52:17 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-26 14:52:17 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined
+2023-11-26 14:55:04 [INFO] Checking if player with the UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 is in the database
+2023-11-26 14:55:04 [INFO] Player: SylusSquared with UUID: e5c90261-b745-4f34-8d8d-8ca9d73c2ca2 joined
+2023-11-26 14:55:20 [INFO] Plugin disabled, de-initialising
+2023-11-26 14:55:20 [INFO] Trying to sync the database and local data
+2023-11-26 14:55:20 [INFO] Closed the database connection
+2023-11-26 14:55:20 [INFO] Plugin stopped, ending

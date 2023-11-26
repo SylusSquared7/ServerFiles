@@ -1,0 +1,30 @@
+2023-11-24 17:23:58 [INFO] File already exists.
+2023-11-24 19:40:20 [INFO] Closing the database connection
+2023-11-24 19:40:20 [SEVERE] java.sql.SQLNonTransientConnectionException: (conn=52) Connection is closed
+2023-11-25 14:23:06 [INFO] File already exists.
+2023-11-25 14:27:58 [INFO] Closing the database connection
+2023-11-25 14:27:58 [SEVERE] java.sql.SQLNonTransientConnectionException: (conn=140) Connection is closed
+2023-11-26 12:24:01 [INFO] File already exists.
+2023-11-26 12:26:24 [INFO] Closing the database connection
+2023-11-26 12:26:24 [SEVERE] java.sql.SQLNonTransientConnectionException: (conn=52) Connection is closed
+2023-11-26 12:26:47 [INFO] File already exists.
+2023-11-26 12:29:34 [INFO] Closing the database connection
+2023-11-26 12:29:34 [SEVERE] java.sql.SQLNonTransientConnectionException: (conn=63) Connection is closed
+2023-11-26 12:32:03 [INFO] File already exists.
+2023-11-26 12:33:47 [INFO] Closing the database connection
+2023-11-26 12:38:50 [INFO] File already exists.
+2023-11-26 12:40:34 [INFO] Closing the database connection
+2023-11-26 12:41:01 [INFO] File already exists.
+2023-11-26 12:43:06 [INFO] Closing the database connection
+2023-11-26 12:44:29 [INFO] File already exists.
+2023-11-26 12:47:26 [INFO] Closing the database connection
+2023-11-26 13:50:35 [INFO] File already exists.
+2023-11-26 14:41:35 [INFO] Closing the database connection
+2023-11-26 14:41:56 [INFO] File already exists.
+2023-11-26 14:44:33 [INFO] Closing the database connection
+2023-11-26 14:45:32 [INFO] File already exists.
+2023-11-26 14:49:33 [INFO] Closing the database connection
+2023-11-26 14:49:54 [INFO] File already exists.
+2023-11-26 14:52:31 [INFO] Closing the database connection
+2023-11-26 14:52:52 [INFO] File already exists.
+2023-11-26 14:55:18 [INFO] Closing the database connection
